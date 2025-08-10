@@ -77,7 +77,7 @@ Ihr Prototyp zeigt exemplarisch, wie digitale Räume genutzt werden können, um 
     <em>Gruppe 3: Innenansicht, Aufzug.</em>
   </figcaption>
 </figure>
-
+<br />
 
 <div style="clear: both;"></div>
 <figure style="float:left; width:60%; margin:0 1.25rem .75rem 0;">
