@@ -87,6 +87,21 @@ Ihr Prototyp zeigt exemplarisch, wie digitale Räume genutzt werden können, um 
   </figcaption>
 </figure>
 <br/>
+
+Statt bestehende Bilder einfach zu übernehmen, setzte Gruppe 5 an den Grundannahmen an: Sie prüfte etablierte Nutzungskonzepte rund um Materialität, Ausstattung und entwickelte Alternativen. Dabei probierte die Gruppe etwas aus, was sie hätten außerhalb des Spieles nicht machen können. Der Kirchenraum wurde geöffnet, es wurden unkonventionalle Baummaterialien verwendet. <br />
+
+Die von der Gruppe geäußerte Idee eines Disco-Bodens mit Musikboxen ist weniger als reale Bauabsicht zu verstehen, sondern als Bedürfnis: Aus den persönlichen Gesprächen ging hervor, dass die Idee Ausdruck eines Wunsches nach breiteren aufgestellten Raumsnutzungskonzepten in Ballungsräumen ist. Gerade weil eine echte „Disco“ der religiösen Prägung des Ortes widerspräche und daher kaum in Frage kommt, macht der Impuls den Bedarf deutlich, in Ballungsräumen respektvoll gerahmte Mehrfachnutzungen zu denken. Natürlich alles mit klaren Zeiten, Regeln und einer Gestaltung, die dem Charakter des jeweiligen Gebäudes gerecht wird.
+
+
+
+
+
+
+
+
+ChatGPT fragen
+
+
 <figure style="float:left; width:60%; margin:0 1.25rem .75rem 0;">
   <img src="https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g5_6.png" alt="Das Ergebnis einer Schülergruppe" style="width:100%; border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,.25);" />
   <figcaption style="font-size:.9rem; color:#778; margin-top:.4rem;">
