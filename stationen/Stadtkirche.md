@@ -15,7 +15,10 @@
 
 
 ## Gliederung
-
+1. [Was ist JenaCraft?](#was-ist-jenacraft)
+2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
+3. [Die Ergebnisse](#3-die-ergebnisse)
+4. [Zusammenfassung](#4-zusammenfassung)
 
 
 ## 1. Was ist JenaCraft?
@@ -49,18 +52,7 @@ Rücksprache ist dies auch als AG über einen längeren Zeitraum anpassbar. <br 
 
 ## 3. Die Ergebnisse
 
-<figure style="float:left; width:60%; margin:0 1.25rem .75rem 0;">
-  <img src="https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g5_3.png" alt="Das Ergebnis einer Schülergruppe" style="width:100%; border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,.25);" />
-  <figcaption style="font-size:.9rem; color:#778; margin-top:.4rem;">
-    <em>Gruppe 5: Außenansicht.</em>
-  </figcaption>
-</figure>
 
-
-
-
-
-<div style="clear: both;"></div>
 
 <figure style="float:left; width:60%; margin:0 1.25rem .75rem 0;">
   <img src="https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g3_1.png" alt="Das Ergebnis einer Schülergruppe" style="width:100%; border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,.25);" />
@@ -70,8 +62,11 @@ Rücksprache ist dies auch als AG über einen längeren Zeitraum anpassbar. <br 
 </figure>
 
 <br/>
-Eine Andere Gruppe:
-Hier erdachten dei SuS, Denkmal barrierefrei zu gestalten, etwa in Form eines Aufzuges und dessen Implementierung in dem Spiel Minecraft
+In <b>Gruppe 3</b> beschäftigten sich die Schülerinnen und Schüler mit der Frage, wie das Denkmal <b>barrierefrei</b> erfahrbar werden kann, und entwarfen dafür vor allem die Lösung eines Aufzugs. Die Umsetzung erfolgte mit der spielinternen Logik, einem Wasserfall.<br /><br />
+
+Ausgehend von <b>typischen Barrieren</b> (Treppenstufen, schmale Wege, fehlende Orientierung) planten sie eine stufenlose Erschließung: breite, kontrastreich markierte Zugänge, klare Wegführung und als Kernstück ein Aufzug, der Besucherinnen und Besucher vom Platzniveau auf die Aussichts- bzw. Informationshöhe bringt. Im Spiel realisierten sie das funktional mit Minecraft-Bordmitteln (z. B. Redstone-Mechanik und/oder wasserbasierte Aufzüge) und ergänzten Bedienelemente auf beiden Ebenen, damit der Lift unabhängig nutzbar ist. Begleitend setzten sie einfache Piktogramme und kurze Infotexte ein, um die Orientierung zu erleichtern; Handläufe, Absperrungen und Beleuchtung wurden mit passenden Blöcken symbolisiert. Darüber hinaus ist der Umsetzung zu enthnehmen, dass etwaige vorhandene Kunst auch ausgestellt wird. Die Gruppe diskutierte außerdem, wie sich der Aufzug gestalterisch in das Denkmal und den Platz einfügt, ohne den historischen Charakter zu überlagern. Im Vordergrund stand das <b>Abwägen zwischen Denkmalschutz und Zugänglichkeit</b>. <br />
+
+Ihr Prototyp zeigt exemplarisch, wie digitale Räume genutzt werden können, um inklusive Lösungen zu denken, zu testen und verständlich zu präsentieren.
 
 
 
@@ -83,11 +78,27 @@ Hier erdachten dei SuS, Denkmal barrierefrei zu gestalten, etwa in Form eines Au
   </figcaption>
 </figure>
 
-<br />
 
-
-
-<br />
 <div style="clear: both;"></div>
+<figure style="float:left; width:60%; margin:0 1.25rem .75rem 0;">
+  <img src="https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g5_3.png" alt="Das Ergebnis einer Schülergruppe" style="width:100%; border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,.25);" />
+  <figcaption style="font-size:.9rem; color:#778; margin-top:.4rem;">
+    <em>Gruppe 5: Außenansicht.</em>
+  </figcaption>
+</figure>
+
+<figure style="float:left; width:60%; margin:0 1.25rem .75rem 0;">
+  <img src="https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g5_6.png" alt="Das Ergebnis einer Schülergruppe" style="width:100%; border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,.25);" />
+  <figcaption style="font-size:.9rem; color:#778; margin-top:.4rem;">
+    <em>Gruppe 5: Außenansicht.</em>
+  </figcaption>
+</figure>
+
+
+
+
+<div style="clear: both;"></div>
+
+
 
 ## 4. Zusammenfassung
