@@ -86,14 +86,14 @@ Ihr Prototyp zeigt exemplarisch, wie digitale Räume genutzt werden können, um 
     <em>Gruppe 5: Außenansicht.</em>
   </figcaption>
 </figure>
-
+<br/>
 <figure style="float:left; width:60%; margin:0 1.25rem .75rem 0;">
   <img src="https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g5_6.png" alt="Das Ergebnis einer Schülergruppe" style="width:100%; border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,.25);" />
   <figcaption style="font-size:.9rem; color:#778; margin-top:.4rem;">
     <em>Gruppe 5: Außenansicht.</em>
   </figcaption>
 </figure>
-
+<br/>
 
 
 
