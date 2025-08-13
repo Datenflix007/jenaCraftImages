@@ -48,7 +48,8 @@ Rücksprache ist dies auch als AG über einen längeren Zeitraum anpassbar. <br 
 
 
 ## 2. Über den Arbeitsprozess
-
+Die Schüler haben in insgesamt fünf Kleingruppen, über vier Tage verteilt, die jewils ausgesuchten Orte rekonstruiert und modifiziert. In den Kleingruppen sollen die Schülerinnen und Schüler weitestgehend selbstständig agieren. Intervallmäßig wurden mit dem Dozenten Planungsmeetings einberufen. Dabei wurden konzeptionelle und gestalterische Vorschläge geleistet. <br/>
+Abschließend stellten dei Schülerinnen und Schüler sich, und ihren Familien und Freunden gegenseitig ihren nachgebauten Ort vor und begründeten, wie und warum diese Orte die Aspekte der Nachhaltigkeit und der <b>Erinnerungskultur</b> umsetzen<br />.
 
 ## 3. Die Ergebnisse
 
@@ -98,8 +99,6 @@ Die von der Gruppe geäußerte Idee eines Disco-Bodens mit Musikboxen ist wenige
 
 
 
-
-ChatGPT fragen
 
 
 <figure style="float:left; width:60%; margin:0 1.25rem .75rem 0;">
