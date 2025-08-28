@@ -1,4 +1,4 @@
-# JenaCraft: Markt
+# JenaCraft: Stadtkirche
 
 *von **Felix Staacke**   27.08.2025*
 
@@ -56,11 +56,24 @@ Gefällt ihnen dieser Beitrag? dann schauen Sie sich doch gerne die anderen Beit
 ## 3. Die Ergebnisse
 
 ## 3.1 Winterferienkurs Polaris
-In Minecraft wurde der Stadtmarkt Jena mit einer umfassenden Begrünung gestaltet. Neben Grünflächen integrierten die Teilnehmenden sogar Bienenstöcke, um die Bedeutung von Bestäubern hervorzuheben. Auch wenn eine solche Umsetzung im realen Stadtraum aufgrund möglicher Allergien schwierig wäre, verdeutlicht der Entwurf den klaren Fokus auf Biodiversität. Besonders bemerkenswert ist, dass diese Idee von der jüngsten Gruppe stammt – ein umso stärkeres Signal dafür, wie früh das Bewusstsein für ökologische Themen geweckt werden kann.
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g2_0.png)
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g2_1.png)
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g2_02.png)
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g2_3.png)
+Mit diesem Stadttor haben sich zwei Gruppen beschäftigt. 
+
+Die **eine Gruppe** legten den Fokus eher darauf, dass Tor, so wie es heute existiert und fungiert, zu erhalten und durch **Informationstexte** zu ergänzen. 
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g1_1.png)
+
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g1_3.png)
+
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g1_4.png)
+Die **andere Gruppe** legte folgenden Fokus: Barrierefreiheit wurde durch den Einbau von Lorenbahnen und Eisrutschbahnen umgesetzt, sodass ein stufenloser Zugang möglich ist. Darüber hinaus entstand die Idee, Regenwasser aufzufangen und wiederzuverwenden sowie die natürliche Kühle der alten Gemäuer für eine energiearme Kühlung, etwa für Server, nutzbar zu machen. Auch wenn diese Ansätze teils utopisch wirken, zeigen sie deutlich die Auseinandersetzung mit den Eigenschaften und Potenzialen von Baumaterialien im historischen wie im zukunftsorientierten Kontext.
+
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g4_0.png)
+
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g4_2.png)
+
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g4_4.png)
+
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g4_6.png)
+
 
 ## 4. Zusammenfassung
-Das Thema Biodiversität und Begrünung der öffentlichen Flächen ist in den Modellierungen als unumgänglich.
+Festzuhalten ist also, dass anhand dieser Modellierung die SuS ebenso eine Begrünung des öffentlichen Raumes, das barrierefreie Begehbarmachen sowie die Sensibilisierung für inklusive Gestaltungskonzepte einfordern. Darüber hinaus setzen sie sich für Barrierefreiheit in Denkmälern und öffentlichen Bereichen ein, um allen Menschen gleichermaßen Zugang und Teilhabe zu ermöglichen. Ergänzend entwickeln sie Ideen zur Begrünung urbaner Flächen, wodurch nicht nur das Stadtbild aufgewertet, sondern auch ein Beitrag zum Klima- und Umweltschutz geleistet wird. Zudem schlagen die SuS ein alternatives Nutzungskonzept vor, etwa die innovative Integration von Serverkühlung innerhalb historischer Steinbauten, wodurch Denkmalschutz und moderne Technologie sinnvoll miteinander verbunden werden können. Schließlich fordern sie mehr Infotexte und öffentlich zugängliche Aufklärungsmaterialien, um die Gesellschaft für nachhaltige, inklusive und innovative Nutzung öffentlicher Räume stärker zu sensibilisieren.

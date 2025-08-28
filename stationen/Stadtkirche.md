@@ -47,7 +47,12 @@ Intervallmäßig wurden mit dem Dozenten Planungsmeetings einberufen. Dabei wurd
 Vorschläge geleistet.
 Abschließend stellten dei Schülerinnen und Schüler sich, und ihren Familien und Freunden gegenseitig ihren nachgebauten 
 Ort vor und begründeten, wie und warum diese Orte die Aspekte der Nachhaltigkeit und der **Erinnerungskultur** umsetzen.
+Im Zuge des ersten Kurses wurden folgende Orte umgesetzt:
+  - JenaCraft: Johannestor
+  - JenaCraft: Markt
+  - JenaCraft: Stadtkirche
 
+Gefällt ihnen dieser Beitrag? dann schauen Sie sich doch gerne die anderen Beiträge zu dem Thema an.
 ## 3. Die Ergebnisse
 
 ## 3.1 Winterferienkurs Polaris
