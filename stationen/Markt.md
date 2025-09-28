@@ -63,10 +63,10 @@ Gefällt ihnen dieser Beitrag? dann schauen Sie sich doch gerne die anderen Beit
 
 ## 3.1 Winterferienkurs Polaris
 In Minecraft wurde der Stadtmarkt Jena mit einer umfassenden Begrünung gestaltet. Neben Grünflächen integrierten die Teilnehmenden sogar Bienenstöcke, um die Bedeutung von Bestäubern hervorzuheben. Auch wenn eine solche Umsetzung im realen Stadtraum aufgrund möglicher Allergien schwierig wäre, verdeutlicht der Entwurf den klaren Fokus auf Biodiversität. Besonders bemerkenswert ist, dass diese Idee von der jüngsten Gruppe stammt – ein umso stärkeres Signal dafür, wie früh das Bewusstsein für ökologische Themen geweckt werden kann.
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g2_0.png)
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g2_1.png)
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g2_02.png)
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g2_3.png)
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g2_0.png)
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g2_1.png)
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g2_02.png)
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g2_3.png)
 
 ## 4. Zusammenfassung
 Das Thema Biodiversität und Begrünung der öffentlichen Flächen ist in den Modellierungen als unumgänglich.

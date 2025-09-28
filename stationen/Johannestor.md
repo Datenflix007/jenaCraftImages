@@ -1,4 +1,4 @@
-# JenaCraft: Stadtkirche
+# JenaCraft: Johannestor
 
 *von **Felix Staacke**   27.08.2025*
 
@@ -8,8 +8,8 @@
 
 1. [Was ist JenaCraft?](#was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse)<br />
-  3.1 [Winterferienkurs in dem Polaris](#31-winterferienkurs-polaris)
+3. [Die Ergebnisse](#3-die-ergebnisse)`<br />`
+   3.1 [Winterferienkurs in dem Polaris](#31-winterferienkurs-polaris)
 4. [Zusammenfassung](#4-zusammenfassung)
 
 ## 1. Was ist JenaCraft?
@@ -38,48 +38,49 @@ Rücksprache ist dies auch als AG über einen längeren Zeitraum anpassbar.
 
 ## 2. Über den Arbeitsprozess
 
-Durchgeführt wurde wurde der Kurs bisher **zweimal**. 
+Durchgeführt wurde wurde der Kurs bisher **zweimal**.
 
-Der erste Kurs fand als Winterferien Kurs von dem **14.04. bis zu dem 17.04.** in dem [Jugendzentrum Polaris](https://polaris-jena.de/) statt. Dabei haben die SuS in fünf 
-Kleingruppen die jeweils ausgesuchten Orte rekonstruiert und modifiziert. Die Kleingruppen agierten weitestgehend selbstständig.  
-Intervallmäßig wurden mit dem Dozenten Planungsmeetings einberufen. Dabei wurden konzeptionelle und gestalterische 
+Der erste Kurs fand als Winterferien Kurs von dem **14.04. bis zu dem 17.04.** in dem [Jugendzentrum Polaris](https://polaris-jena.de/) statt. Dabei haben die SuS in fünf
+Kleingruppen die jeweils ausgesuchten Orte rekonstruiert und modifiziert. Die Kleingruppen agierten weitestgehend selbstständig.Intervallmäßig wurden mit dem Dozenten Planungsmeetings einberufen. Dabei wurden konzeptionelle und gestalterische
 Vorschläge geleistet.
-Abschließend stellten dei Schülerinnen und Schüler sich, und ihren Familien und Freunden gegenseitig ihren nachgebauten 
+Abschließend stellten dei Schülerinnen und Schüler sich, und ihren Familien und Freunden gegenseitig ihren nachgebauten
 Ort vor und begründeten, wie und warum diese Orte die Aspekte der Nachhaltigkeit und der **Erinnerungskultur** umsetzen.
 Im Zuge des ersten Kurses wurden folgende Orte umgesetzt:
-  - JenaCraft: Johannestor
-  - JenaCraft: Markt
-  - JenaCraft: Stadtkirche
 
-Der zweite Kurs fand im Zuge des [34. Witelo "mach-bar!"-Tages](https://www.witelo.de/mach-bar-tage/kw/bereich/kursdetails/kurs/A-142/kursname/34+mach-bar-Tag/kategorie-id/262/#inhalt) am **06.09.2025** statt. Dabei stellen sich sieben Jungs, an welchen Orten und aus welchen Gründen diese gerne ihre Freizeit verbringen. Dabei wurden drei Orte und Gebäude aus Jena nachgebaut und anhand von zuvor gemeinsam ausgearbeiteten Kritieren modifiziert. Die Gruppen agierten weitestgehend selbstständig, bekamen jedoch intervallmäßig Fragen und Anmerkugnen durch den Dozenten. Zu den drei Modellen gehören die folgenden drei Einträge:
-  - JenaCraft: JenTower / Eichplatz
-  - JenaCraft: Zeiss-Gebäude
-  - JenaCraft: Jugendzentrum Polaris
+- JenaCraft: Johannestor
+- JenaCraft: Markt
+- JenaCraft: Stadtkirche
 
+Der zweite Kurs fand im Zuge des [34. Witelo &#34;mach-bar!&#34;-Tages](https://www.witelo.de/mach-bar-tage/kw/bereich/kursdetails/kurs/A-142/kursname/34+mach-bar-Tag/kategorie-id/262/#inhalt) am **06.09.2025** statt. Dabei stellen sich sieben Jungs, an welchen Orten und aus welchen Gründen diese gerne ihre Freizeit verbringen. Dabei wurden drei Orte und Gebäude aus Jena nachgebaut und anhand von zuvor gemeinsam ausgearbeiteten Kritieren modifiziert. Die Gruppen agierten weitestgehend selbstständig, bekamen jedoch intervallmäßig Fragen und Anmerkugnen durch den Dozenten. Zu den drei Modellen gehören die folgenden drei Einträge:
+
+- JenaCraft: JenTower / Eichplatz
+- JenaCraft: Zeiss-Gebäude
+- JenaCraft: Jugendzentrum Polaris
 
 Gefällt ihnen dieser Beitrag? dann schauen Sie sich doch gerne die anderen Beiträge zu dem Thema an.
 
 ## 3. Die Ergebnisse
 
 ## 3.1 Winterferienkurs Polaris
-Mit diesem Stadttor haben sich zwei Gruppen beschäftigt. 
 
-Die **eine Gruppe** legten den Fokus eher darauf, dass Tor, so wie es heute existiert und fungiert, zu erhalten und durch **Informationstexte** zu ergänzen. 
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g1_1.png)
+Mit diesem Stadttor haben sich zwei Gruppen beschäftigt.
 
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g1_3.png)
+Die **eine Gruppe** legten den Fokus eher darauf, dass Tor, so wie es heute existiert und fungiert, zu erhalten und durch **Informationstexte** zu ergänzen.
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g1_1.png)
 
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g1_4.png)
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g1_3.png)
+
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g1_4.png)
 Die **andere Gruppe** legte folgenden Fokus: Barrierefreiheit wurde durch den Einbau von Lorenbahnen und Eisrutschbahnen umgesetzt, sodass ein stufenloser Zugang möglich ist. Darüber hinaus entstand die Idee, Regenwasser aufzufangen und wiederzuverwenden sowie die natürliche Kühle der alten Gemäuer für eine energiearme Kühlung, etwa für Server, nutzbar zu machen. Auch wenn diese Ansätze teils utopisch wirken, zeigen sie deutlich die Auseinandersetzung mit den Eigenschaften und Potenzialen von Baumaterialien im historischen wie im zukunftsorientierten Kontext.
 
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g4_0.png)
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g4_0.png)
 
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g4_2.png)
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g4_2.png)
 
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g4_4.png)
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g4_4.png)
 
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g4_6.png)
-
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g4_6.png)
 
 ## 4. Zusammenfassung
+
 Festzuhalten ist also, dass anhand dieser Modellierung die SuS ebenso eine Begrünung des öffentlichen Raumes, das barrierefreie Begehbarmachen sowie die Sensibilisierung für inklusive Gestaltungskonzepte einfordern. Darüber hinaus setzen sie sich für Barrierefreiheit in Denkmälern und öffentlichen Bereichen ein, um allen Menschen gleichermaßen Zugang und Teilhabe zu ermöglichen. Ergänzend entwickeln sie Ideen zur Begrünung urbaner Flächen, wodurch nicht nur das Stadtbild aufgewertet, sondern auch ein Beitrag zum Klima- und Umweltschutz geleistet wird. Zudem schlagen die SuS ein alternatives Nutzungskonzept vor, etwa die innovative Integration von Serverkühlung innerhalb historischer Steinbauten, wodurch Denkmalschutz und moderne Technologie sinnvoll miteinander verbunden werden können. Schließlich fordern sie mehr Infotexte und öffentlich zugängliche Aufklärungsmaterialien, um die Gesellschaft für nachhaltige, inklusive und innovative Nutzung öffentlicher Räume stärker zu sensibilisieren.

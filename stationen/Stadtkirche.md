@@ -63,7 +63,7 @@ Gefällt ihnen dieser Beitrag? dann schauen Sie sich doch gerne die anderen Beit
 
 ## 3.1 Winterferienkurs Polaris
 
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g3_1.png)
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g3_1.png)
 
 In **Gruppe 3** beschäftigten sich die Schülerinnen und Schüler mit der Frage, wie das Denkmal **barrierefrei** erfahrbar 
 werden kann, und entwarfen dafür vor allem die Lösung eines Aufzugs. Die Umsetzung erfolgte mit der spielinternen Logik, 
@@ -81,9 +81,9 @@ außerdem, wie sich der Aufzug gestalterisch in das Denkmal und den Platz einfü
 
 
 
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g3_3.png)
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g3_3.png)
 
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g5_3.png)
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g5_3.png)
 
 Statt bestehende Bilder einfach zu übernehmen, setzte Gruppe 5 an den Grundannahmen an: Sie prüfte etablierte 
 Nutzungskonzepte rund um Materialität, Ausstattung und entwickelte Alternativen. Dabei probierte die Gruppe etwas aus, 
@@ -93,7 +93,7 @@ Baummaterialien verwendet. Die von der Gruppe geäußerte Idee eines Disco-Boden
 Anzumerken ist, dass selbstredent die Idee der Nutzung als eine *Disco* der Würde des religiösen Ortes widerspräche und daher kaum in Frage komme. Vielmeher macht der Impuls den Bedarf deutlich, in Ballungsräumen respektvoll gerahmte 
 Mehrfachnutzungen zu denken. Natürlich alles mit klaren Zeiten, Regeln und einer Gestaltung, die dem Charakter des jeweiligen Gebäudes gerecht wird.
 
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/g5_6.png)
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g5_6.png)
 
 ## 4. Zusammenfassung
 Medienpädagogisch lies sich festhalten, dass die SuS die digitale Lernumgebung nutzen konnten, um ihre Wünsche und Vorstellungen zu artikulieren und zu modellieren:
