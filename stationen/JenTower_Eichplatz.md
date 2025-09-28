@@ -1,6 +1,6 @@
-# JenaCraft: Markt
+# JenaCraft: JenTower / Eichplatz
 
-*von **Felix Staacke**   27.08.2025*
+*von **Felix Staacke**   28.09.2025*
 
 ![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/header.jpg)
 
@@ -9,7 +9,7 @@
 1. [Was ist JenaCraft?](#was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
 3. [Die Ergebnisse](#3-die-ergebnisse)<br />
-  3.1 [Winterferienkurs in dem Polaris](#31-winterferienkurs-polaris)
+  3.1 [Witelo-Machbar Tag!](#31-winterferienkurs-polaris)
 4. [Zusammenfassung](#4-zusammenfassung)
 
 ## 1. Was ist JenaCraft?
@@ -55,7 +55,6 @@ Der zweite Kurs fand im Zuge des [34. Witelo "mach-bar!"-Tages](https://www.wite
   - JenaCraft: JenTower / Eichplatz
   - JenaCraft: Zeiss-Gebäude
   - JenaCraft: Jugendzentrum Polaris
-
 
 Gefällt ihnen dieser Beitrag? dann schauen Sie sich doch gerne die anderen Beiträge zu dem Thema an.
 
