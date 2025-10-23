@@ -56,6 +56,10 @@ Der zweite Kurs fand im Zuge des [34. Witelo "mach-bar!"-Tages](https://www.wite
   - JenaCraft: Zeiss-Gebäude
   - JenaCraft: Jugendzentrum Polaris
 
+Der dritte Kurs fand als Ferienworkshop in der [*Ernst-Abbe-Bibliothek*](https://www.stadtbibliothek-jena.de/de/startseite/700073) zwischen dem 14. und 17.10.2025 statt. Dabei stellen sich nutzen 10 Teilnehmer die Möglichkeit, in Kleingruppen die Orte aus Jena nachzumodellieren und nach ihren Wünschen anzupassen. Dabei entstanden in drei Kleingruppen folgende Modelle:
+  - JenaCraft: JenTower / Eichtplatz
+  - JenaCraft: Ernst-Abbe-Bibliothek
+  - JenaCraft: Goethe-Galerie 
 Gefällt ihnen dieser Beitrag? dann schauen Sie sich doch gerne die anderen Beiträge zu dem Thema an.
 
 ## 3. Die Ergebnisse
