@@ -1,6 +1,6 @@
-# JenaCraft: Markt
+# JenaCraft: Zeiss-Gebäude
 
-*von **Felix Staacke**   27.08.2025*
+*von **Felix Staacke**   28.09.2025*
 
 ![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/header.jpg)
 
@@ -9,7 +9,7 @@
 1. [Was ist JenaCraft?](#was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
 3. [Die Ergebnisse](#3-die-ergebnisse)<br />
-  3.1 [Winterferienkurs in dem Polaris](#31-winterferienkurs-polaris)
+  3.1 [Witelo-Machbar Tag!](#31-witelo-machbar-tag)
 4. [Zusammenfassung](#4-zusammenfassung)
 
 ## 1. Was ist JenaCraft?
@@ -56,17 +56,17 @@ Der zweite Kurs fand im Zuge des [34. Witelo "mach-bar!"-Tages](https://www.wite
   - JenaCraft: Zeiss-Gebäude
   - JenaCraft: Jugendzentrum Polaris
 
-
 Gefällt ihnen dieser Beitrag? dann schauen Sie sich doch gerne die anderen Beiträge zu dem Thema an.
 
 ## 3. Die Ergebnisse
 
-## 3.1 Winterferienkurs Polaris
-In Minecraft wurde der Stadtmarkt Jena mit einer umfassenden Begrünung gestaltet. Neben Grünflächen integrierten die Teilnehmenden sogar Bienenstöcke, um die Bedeutung von Bestäubern hervorzuheben. Auch wenn eine solche Umsetzung im realen Stadtraum aufgrund möglicher Allergien schwierig wäre, verdeutlicht der Entwurf den klaren Fokus auf Biodiversität. Besonders bemerkenswert ist, dass diese Idee von der jüngsten Gruppe stammt – ein umso stärkeres Signal dafür, wie früh das Bewusstsein für ökologische Themen geweckt werden kann.
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g2_0.png)
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g2_1.png)
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g2_02.png)
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g2_3.png)
+## 3.1 Witelo Machbar-Tag!
+Beim **Zeiss-Gebäude** stand besonders die ökologische Umgestaltung im Mittelpunkt: Vorgeschlagen wurde, das Innere des Hochhauses durch vertikale Begrünung mit Bäumen und Pflanzen lebendiger und gesünder zu gestalten, sodass ein grüner Innenraum entsteht, der Luftqualität, Wohlbefinden und Mikroklima verbessert. Gleichzeitig sollte das Dach mit Solarpaneelen ausgestattet werden, um erneuerbare Energien zu erzeugen und den Energiebedarf des Gebäudes nachhaltig zu decken. Auf diese Weise verbindet das Konzept ökologische Verantwortung mit innovativer Architektur und schafft ein zukunftsorientiertes Vorzeigeprojekt.
+![Bild](https://github.com/Datenflix007/jenaCraftImages/blob/main/images/witelo25/witelo_zeiss_1.png)
+![Bild](https://github.com/Datenflix007/jenaCraftImages/blob/main/images/witelo25/witelo_zeiss_2.png)
+
+Neben der Modellierung in der Lernumgebung Minecraft fand auch eine Sicherung der in dem Workshop erarbeiteten Kriterien statt.
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/witelo25/witelo_mindmap.png)
 
 ## 4. Zusammenfassung
-Das Thema Biodiversität und Begrünung der öffentlichen Flächen ist in den Modellierungen als unumgänglich.
+Das Thema Biodiversität, Begrünung der öffentlichen Flächen und Segmentieren von großen Asphaltflächen gilt auch in diesen Modellierungen -also den Stimmen der Jugendlichen Jenas- als unumgänglich.
