@@ -66,7 +66,7 @@ Gefällt ihnen dieser Beitrag? dann schauen Sie sich doch gerne die anderen Beit
 ## 3. Die Ergebnisse
 
 ## 3.1 Ernst-Abbe-Bibliothek: Ferienworkshop 14.10.-17.10.2025
-![Mind-Map](../images/eab/Mind-Map-online.de_.png)
+![Mind-Map](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab/Mind-Map-online.de_.png)
 
 An dem ersten Tag trugen die Teilnehmer zusammen, welche Orte diese in ihrer Freizeit gerne besuchen und was an diesen charakteristisch ist (s. den gelben Ast). Noch am selben Tag wurden Gruppen gebildet, die begonnen, den gruppenweise ausgesuchten Ort nachzubauen. 
 Am zweiten Tag vermaßen die Teilnehmer mit digitalen Tools die Orte, planten mit einem Maßstab die Gebäude und stellten weitestgehend die bloße Nachstellung ab. 
