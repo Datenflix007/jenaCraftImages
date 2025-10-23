@@ -1,4 +1,4 @@
-# JenaCraft: Zeiss-Gebäude
+# JenaCraft: Goethe-Galerie
 
 *von **Felix Staacke**   23.10.2025*
 
@@ -9,7 +9,7 @@
 1. [Was ist JenaCraft?](#was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
 3. [Die Ergebnisse](#3-die-ergebnisse)<br />
-  3.1 [Witelo-Machbar Tag!](#31-witelo-machbar-tag)
+  3.1 [Ernst-Abbe-Bibliothek!](#31-ernst-abbe-bibliothek-ferienworkshop-1410-17102025)
 4. [Zusammenfassung](#4-zusammenfassung)
 
 ## 1. Was ist JenaCraft?
@@ -65,10 +65,40 @@ Gefällt ihnen dieser Beitrag? dann schauen Sie sich doch gerne die anderen Beit
 
 ## 3. Die Ergebnisse
 
-## 3.1 Ferienworkshop 14.10.-17.10.2025
-![Mind-Map](../images/eab/Mind-Map-online.de_.png)
+## 3.1 Ernst-Abbe-Bibliothek: Ferienworkshop 14.10.-17.10.2025
+![Mind-Map](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab/Mind-Map-online.de_.png)
 
 An dem ersten Tag trugen die Teilnehmer zusammen, welche Orte diese in ihrer Freizeit gerne besuchen und was an diesen charakteristisch ist (s. den gelben Ast). Noch am selben Tag wurden Gruppen gebildet, die begonnen, den gruppenweise ausgesuchten Ort nachzubauen. 
 Am zweiten Tag vermaßen die Teilnehmer mit digitalen Tools die Orte, planten mit einem Maßstab die Gebäude und stellten weitestgehend die bloße Nachstellung ab. 
 Am dritten Tag trugen die Teilnehmer mit Recherche Arbeit verschiedene Charakteristika zusammen, die bei einer nachhaltigen Stadtentwicklung relevant ist (s. grüner Zweig). 
+
+<video  autoplay muted loop>
+  <source src="https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab/goega/JenaCraft_EAB_GoeGa.mp4" type="video/mp4">
+  Dein Browser unterstützt dieses Videoformat nicht.
+</video>
+
+
+Diese Gruppe hat die Goethe Galerie Jena in beeindruckender Genauigkeit und mit viel Liebe zum Detail nachgebildet. Schon die  Glasfassade und die markante Dachkonstruktion zeigen, wie sorgfältig sich die Gruppe mit der Architektur des Originals auseinandergesetzt hat. Doch neben der präzisen Rekonstruktion steht vor allem eines im Vordergrund: die kreative Neuinterpretation.
+
+![](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab/goega/Screenshot%20(61).png)
+![](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab/goega/Screenshot%20(10).png)
+![](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab/goega/Screenshot%20(76).png)
+
+Zwar sind bekannte Geschäfte  im Modell beibehalten, doch die Jugendlichen haben bewusst neue Nutzungsformen integriert. So finden sich in der Galerie nun auch Entspannungszonen, Fitnessräume und begrünte Aufenthaltsbereiche, die die bisher stark konsumorientierte Funktion des Gebäudes erweitern. Die Goethe Galerie wird hier zu einem Ort der Erholung, Bewegung und Begegnung – einer kleinen urbanen Oase mitten in Jena.
+
+![](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab/goega/Screenshot%20(71).png)
+
+Ein besonders spannendes Detail sind die Bodenplatten im Eingangsbereich, die nach japanischem Vorbild gestaltet wurden. Inspiriert wurde die Gruppe bei der Recherche von [Bodenplatten aus Japan](https://www.ingenieur.de/technik/fachbereiche/energie/fussgaenger-koennen-schritt-strom-daten-erzeugen/), die durch den Tritt von Passantinnen Energie und Bewegungsdaten erzeugen. Damit greifen die Teilnehmenden ein hochmodernes Konzept auf, das Technik und Nachhaltigkeit miteinander verbindet.
+
+![](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab/goega/Screenshot%20(72).png)
+![](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab/goega/Screenshot%20(75).png)
+![](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab/goega/Screenshot%20(77).png)
+
+Auch das Thema Begrünung zieht sich durch das gesamte Modell. Sowohl im Inneren, wo Pflanzen, Teiche und kleine Bäume das Einkaufszentrum beleben, als auch auf den Dächern entsteht ein harmonisches Zusammenspiel von Architektur und Natur. Die Galerie wird so zum grünen Lebensraum, in dem ökologische Verantwortung sichtbar wird. Ergänzt wird dieses Konzept durch den Gedanken der erneuerbaren Energien, der hier implizit in den Entwürfen mitgedacht wurde, eta durch Dachbegrünung, Lichtdurchflutung oder Energiegewinnung durch Bewegung.
+
+Die Qualität des Nachbaus ist dabei bemerkenswert: Die Teilnehmer haben nicht nur das äußere Erscheinungsbild präzise umgesetzt, sondern auch räumliche Tiefe, Proportionen und Innenstruktur eindrucksvoll nachempfunden. Gleichzeitig fließen zahlreiche farbige, verspielte und utopische Ideen ein, die das Projekt zu einer Mischung aus realistischer Architektur und kreativer Zukunftsvision machen.
+
+
+## 4. Zusammenfassung
+Insgesamt zeigt dieses Modell, wie junge Menschen urbane Räume neu denken: Das heutige Einkaufszentrum als möglicher zukünftiger sozialer Treffpunkt, nachhaltiger Lebensraum und Erlebnisort – ein Projekt, das beweist, dass die Zukunft der Stadt nicht nur gebaut, sondern auch neu erfunden werden kann.
 

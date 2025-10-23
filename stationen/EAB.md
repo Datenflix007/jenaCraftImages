@@ -1,4 +1,4 @@
-# JenaCraft: Zeiss-Gebäude
+# JenaCraft: Ernst-Abbe-Bibliothek
 
 *von **Felix Staacke**   23.10.2025*
 
@@ -9,7 +9,7 @@
 1. [Was ist JenaCraft?](#was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
 3. [Die Ergebnisse](#3-die-ergebnisse)<br />
-  3.1 [Witelo-Machbar Tag!](#31-witelo-machbar-tag)
+  3.1 [Witelo-Machbar Tag!](#31-ernst-abbe-bibliothek-ferienworkshop-1410-17102025)
 4. [Zusammenfassung](#4-zusammenfassung)
 
 ## 1. Was ist JenaCraft?
@@ -65,7 +65,7 @@ Gefällt ihnen dieser Beitrag? dann schauen Sie sich doch gerne die anderen Beit
 
 ## 3. Die Ergebnisse
 
-## 3.1 Ferienworkshop 14.10.-17.10.2025
+## 3.1 Ernst-Abbe-Bibliothek: Ferienworkshop 14.10.-17.10.2025
 ![Mind-Map](../images/eab/Mind-Map-online.de_.png)
 
 An dem ersten Tag trugen die Teilnehmer zusammen, welche Orte diese in ihrer Freizeit gerne besuchen und was an diesen charakteristisch ist (s. den gelben Ast). Noch am selben Tag wurden Gruppen gebildet, die begonnen, den gruppenweise ausgesuchten Ort nachzubauen. 
@@ -97,5 +97,6 @@ Anzumerken ist hierbei, dass gerade das bunte Programm. von Lesewettbewerben bis
 
 Auch praktische und nachhaltige Aspekte fanden Beachtung: So wurde an Mülltrennung gedacht. Um auch digital sich weiterbilden zu können, oder digitale Bücher lesen zu können, baute diese Gruppe schließlich auch einen Computerraum.
 
+## 4. Zusammenfassung
 
 Insgesamt zeigt dieses Modell: Die Jugendlichen sehen in der Bibliothek nicht nur einen Lernort, sondern ein ``soziales Zentrum``:  offen, grün, nachhaltig und voller kreativer Möglichkeiten.

@@ -10,6 +10,7 @@
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
 3. [Die Ergebnisse](#3-die-ergebnisse)<br />
   3.1 [Witelo-Machbar Tag!](#31-witelo-machbar-tag)
+  3.2 [Ernst-Abbe-Bibliothek](#32-ernst-abbe-bibliothek-ferienworkshop-1410-17102025)
 4. [Zusammenfassung](#4-zusammenfassung)
 
 ## 1. Was ist JenaCraft?
@@ -71,5 +72,10 @@ Die Teilnehmer modifizierten den JenTower und den Eichplatz so, dass sie stärke
 Neben der Modellierung in der Lernumgebung Minecraft fand auch eine Sicherung der in dem Workshop erarbeiteten Kriterien statt.
 ![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/witelo25/witelo_mindmap.png)
 
+
+## 3.2 Ernst-Abbe-Bibliothek: Ferienworkshop 14.10.-17.10.2025
+
+
 ## 4. Zusammenfassung
 Das Thema Biodiversität, Begrünung der öffentlichen Flächen und Segmentieren von großen Asphaltflächen gilt auch in diesen Modellierungen -also den Stimmen der Jugendlichen Jenas- als unumgänglich.
+
