@@ -75,6 +75,31 @@ Neben der Modellierung in der Lernumgebung Minecraft fand auch eine Sicherung de
 
 ## 3.2 Ernst-Abbe-Bibliothek: Ferienworkshop 14.10.-17.10.2025
 
+<video autoplay muted loop>
+  <source src="https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab/jentowerEichplatz/JenaCraft_EAB_JenTowerEichplatz.mp4" type="video/mp4">
+  Dein Browser unterstützt dieses Videoformat nicht.
+</video>
+
+Auch in diesem Workshop wurde der JenTower und der Eichplatz bebaut. Auffällig ist die Spirale, die sich elegant um den Turm windet. Sie ist nicht nur ein architektonischer Blickfang, sondern erfüllt auhc folgende Funktion: Sie soll Schatten spenden und gleichzeitig begrünt sein. Durch Pflanzen und begrünte Flächen wird der Turm zum Klimapuffer, der zur Kühlung beiträgt und Lebensraum für Insekten bietet.
+
+![](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab/jentowerEichplatz/Screenshot%20(63).png)
+![](https://github.com/Datenflix007/jenaCraftImages/blob/main/images/eab/jentowerEichplatz/Screenshot%20(65).png)
+![](https://github.com/Datenflix007/jenaCraftImages/blob/main/images/eab/jentowerEichplatz/Screenshot%20(74).png)
+
+Auch die umliegenden Gebäude auf dem Eichplatz folgen diesem nachhaltigen Konzept. Fassaden und Dächer sind begrünt, die Flächen sollen nicht nur ästhetisch wirken, sondern aktiv das Mikroklima verbessern. Die Schüler*innen haben an Insektenhabitate, Blühflächen und Nutzpflanzen gedacht.
+
+Besonders interessant ist der Gedanke an die Materialwahl: Die Gebäude sollen aus nachhaltigen Baustoffen wie Holz, recyceltem Beton und Plastik, sowie ökologischen Verbundmaterialien bestehen. Damit verbinden die Jugendlichen eine moderne, klare Architektursprache mit umweltbewusstem Denken.
+
+![](https://github.com/Datenflix007/jenaCraftImages/blob/main/images/eab/jentowerEichplatz/Screenshot%20(73).png)
+
+Ein weiteres Highlight ist der U-Bahn-Anschluss, der im Modell unter dem Platz verläuft. Er verbindet den Eichplatz direkt mit den anderen zentralen Punkten der Stadt – etwa der Ernst-Abbe-Bibliothek oder der Goethe Galerie – und ermöglicht eine autofreie Innenstadt.
+
+![](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab/jentowerEichplatz/Screenshot%20(64).png)
+
+Die Qualität des Nachbaus ist bemerkenswert: Der Jentower wurde präzise umgesetzt, die Proportionen und Materialien detailgetreu nachempfunden, und gleichzeitig mit neuen, zukunftsgerichteten Ideen ergänzt. Besonders die Dachgärten und Grünfassaden  zeigen, wie konsequent die Schüler*innen ökologische Verantwortung in Architektur übersetzt haben.
+
+
+
 
 ## 4. Zusammenfassung
 Das Thema Biodiversität, Begrünung der öffentlichen Flächen und Segmentieren von großen Asphaltflächen gilt auch in diesen Modellierungen -also den Stimmen der Jugendlichen Jenas- als unumgänglich.
