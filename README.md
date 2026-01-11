@@ -14,6 +14,6 @@
 - [Jugendzentrum Polaris](stationen/Polaris.md)
 
 ### Herbstferien Kurs Ernst-Abbe-Bibliothek
-- [EAB](stationen/EAB.md)
-- [GoeGa](stationen/GoetheGalerie.md)
-- [Eichplatz](stationen/JenTower_Eichplatz.md)
+- [ERnst-Abbe-Platz](stationen/EAB.md)
+- [Goethe-Gallerie](stationen/GoetheGalerie.md)
+- [Eichplatz + JenTower](stationen/JenTower_Eichplatz.md)
