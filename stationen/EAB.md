@@ -103,5 +103,5 @@ Insgesamt zeigt dieses Modell: Die Jugendlichen sehen in der Bibliothek nicht nu
 
 <br /><br />
 --- <br />
-> [Zurück zur Übersicht](../)
+> [Zurück zur Übersicht](../)<br />
 > [Zurück zur Webeeite](https://datenflix.github.io)
