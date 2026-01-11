@@ -104,5 +104,5 @@ Insgesamt zeigt dieses Modell, wie junge Menschen urbane Räume neu denken: Das 
 
 <br /><br />
 --- <br />
-> [Zurück zur Übersicht](../)
+> [Zurück zur Übersicht](../)<br />
 > [Zurück zur Webeeite](https://datenflix.github.io)
