@@ -73,3 +73,8 @@ In Minecraft wurde der Stadtmarkt Jena mit einer umfassenden Begrünung gestalte
 
 ## 4. Zusammenfassung
 Das Thema Biodiversität und Begrünung der öffentlichen Flächen ist in den Modellierungen als unumgänglich.
+
+<br /><br />
+--- <br />
+> [Zurück zur Übersicht](../)
+> [Zurück zur Webeeite](https://datenflix.github.io)
