@@ -100,3 +100,8 @@ Auch praktische und nachhaltige Aspekte fanden Beachtung: So wurde an Mülltrenn
 ## 4. Zusammenfassung
 
 Insgesamt zeigt dieses Modell: Die Jugendlichen sehen in der Bibliothek nicht nur einen Lernort, sondern ein ``soziales Zentrum``:  offen, grün, nachhaltig und voller kreativer Möglichkeiten.
+
+<br /><br />
+--- <br />
+> [Zurück zur Übersicht](../)
+> [Zurück zur Webeeite](https://datenflix.github.io)
