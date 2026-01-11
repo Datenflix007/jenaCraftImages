@@ -76,5 +76,5 @@ Das Thema Biodiversität und Begrünung der öffentlichen Flächen ist in den Mo
 
 <br /><br />
 --- <br />
-> [Zurück zur Übersicht](../)
+> [Zurück zur Übersicht](../)<br />
 > [Zurück zur Webeeite](https://datenflix.github.io)
