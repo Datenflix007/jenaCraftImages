@@ -105,6 +105,6 @@ Die Qualität des Nachbaus ist bemerkenswert: Der Jentower wurde präzise umgese
 Das Thema Biodiversität, Begrünung der öffentlichen Flächen und Segmentieren von großen Asphaltflächen gilt auch in diesen Modellierungen -also den Stimmen der Jugendlichen Jenas- als unumgänglich.
 
 <br /><br />
---- <br />
+---
 > [Zurück zur Übersicht](../)<br />
-> [Zurück zur Webeeite](https://datenflix.github.io)
+> [Zurück zur Webeeite](https://datenflix007.github.io)
