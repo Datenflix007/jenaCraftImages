@@ -21,4 +21,4 @@ Im Rahmen der Tätigkeit als wissenschaftliche Hilfskraft in dem DHLabor der Pro
 
 <br /><br />
 ---
-> [Zurück zur Webeeite](https://datenflix007.github.io)
+> [Zurück zur Webseite](https://datenflix007.github.io)
