@@ -9,7 +9,7 @@
 1. [Was ist JenaCraft?](#was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
 3. [Die Ergebnisse](#3-die-ergebnisse)<br />
-  3.1 [Witelo-Machbar Tag!](#31-witelo-machbar-tag)
+  3.1 [Witelo-Machbar Tag!](#31-witelo-machbar-tag)<br />
   3.2 [Ernst-Abbe-Bibliothek](#32-ernst-abbe-bibliothek-ferienworkshop-1410-17102025)
 4. [Zusammenfassung](#4-zusammenfassung)
 
@@ -104,3 +104,7 @@ Die Qualität des Nachbaus ist bemerkenswert: Der Jentower wurde präzise umgese
 ## 4. Zusammenfassung
 Das Thema Biodiversität, Begrünung der öffentlichen Flächen und Segmentieren von großen Asphaltflächen gilt auch in diesen Modellierungen -also den Stimmen der Jugendlichen Jenas- als unumgänglich.
 
+<br /><br />
+--- <br />
+> [Zurück zur Übersicht](../)
+> [Zurück zur Webeeite](https://datenflix.github.io)
