@@ -111,3 +111,8 @@ Insgesamt spiegeln die Ergebnisse eine Auseinandersetzung mit der Frage wider, w
 
 
 [^1]: Anmerkung: Redstone ist ein spezielles Mineral im Videospiel Minecraft, das ähnlich wie elektrische Kabel in der realen Welt funktioniert. Es kann Energie weiterleiten und damit Schalter, Türen, Lampen oder sogar komplexe Maschinen antreiben. Für jüngere Spieler:innen wirkt es wie eine Art „Magie-Staub“, für technisch Interessierte eher wie eine einfache Form von Elektrizität oder Logikschaltungen.
+
+<br /><br />
+--- <br />
+> [Zurück zur Übersicht](../)
+> [Zurück zur Webeeite](https://datenflix.github.io)
