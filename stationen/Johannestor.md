@@ -8,7 +8,7 @@
 
 1. [Was ist JenaCraft?](#was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse)`<br />`
+3. [Die Ergebnisse](#3-die-ergebnisse)<br />
    3.1 [Winterferienkurs in dem Polaris](#31-winterferienkurs-polaris)
 4. [Zusammenfassung](#4-zusammenfassung)
 
@@ -88,3 +88,8 @@ Die **andere Gruppe** legte folgenden Fokus: Barrierefreiheit wurde durch den Ei
 ## 4. Zusammenfassung
 
 Festzuhalten ist also, dass anhand dieser Modellierung die SuS ebenso eine Begrünung des öffentlichen Raumes, das barrierefreie Begehbarmachen sowie die Sensibilisierung für inklusive Gestaltungskonzepte einfordern. Darüber hinaus setzen sie sich für Barrierefreiheit in Denkmälern und öffentlichen Bereichen ein, um allen Menschen gleichermaßen Zugang und Teilhabe zu ermöglichen. Ergänzend entwickeln sie Ideen zur Begrünung urbaner Flächen, wodurch nicht nur das Stadtbild aufgewertet, sondern auch ein Beitrag zum Klima- und Umweltschutz geleistet wird. Zudem schlagen die SuS ein alternatives Nutzungskonzept vor, etwa die innovative Integration von Serverkühlung innerhalb historischer Steinbauten, wodurch Denkmalschutz und moderne Technologie sinnvoll miteinander verbunden werden können. Schließlich fordern sie mehr Infotexte und öffentlich zugängliche Aufklärungsmaterialien, um die Gesellschaft für nachhaltige, inklusive und innovative Nutzung öffentlicher Räume stärker zu sensibilisieren.
+
+<br /><br />
+--- <br />
+> [Zurück zur Übersicht](../)
+> [Zurück zur Webeeite](https://datenflix.github.io)
