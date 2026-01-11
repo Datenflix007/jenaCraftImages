@@ -90,6 +90,6 @@ Die **andere Gruppe** legte folgenden Fokus: Barrierefreiheit wurde durch den Ei
 Festzuhalten ist also, dass anhand dieser Modellierung die SuS ebenso eine Begrünung des öffentlichen Raumes, das barrierefreie Begehbarmachen sowie die Sensibilisierung für inklusive Gestaltungskonzepte einfordern. Darüber hinaus setzen sie sich für Barrierefreiheit in Denkmälern und öffentlichen Bereichen ein, um allen Menschen gleichermaßen Zugang und Teilhabe zu ermöglichen. Ergänzend entwickeln sie Ideen zur Begrünung urbaner Flächen, wodurch nicht nur das Stadtbild aufgewertet, sondern auch ein Beitrag zum Klima- und Umweltschutz geleistet wird. Zudem schlagen die SuS ein alternatives Nutzungskonzept vor, etwa die innovative Integration von Serverkühlung innerhalb historischer Steinbauten, wodurch Denkmalschutz und moderne Technologie sinnvoll miteinander verbunden werden können. Schließlich fordern sie mehr Infotexte und öffentlich zugängliche Aufklärungsmaterialien, um die Gesellschaft für nachhaltige, inklusive und innovative Nutzung öffentlicher Räume stärker zu sensibilisieren.
 
 <br /><br />
---- <br />
+---
 > [Zurück zur Übersicht](../)<br />
-> [Zurück zur Webeeite](https://datenflix.github.io)
+> [Zurück zur Webeeite](https://datenflix007.github.io)
