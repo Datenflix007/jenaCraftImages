@@ -20,5 +20,5 @@ Im Rahmen der Tätigkeit als wissenschaftliche Hilfskraft in dem DHLabor der Pro
 - [Eichplatz + JenTower](stationen/JenTower_Eichplatz.md)
 
 <br /><br />
---- <br />
+---
 > [Zurück zur Webeeite](https://datenflix.github.io)
