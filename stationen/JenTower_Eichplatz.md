@@ -106,5 +106,5 @@ Das Thema Biodiversität, Begrünung der öffentlichen Flächen und Segmentieren
 
 <br /><br />
 --- <br />
-> [Zurück zur Übersicht](../)
+> [Zurück zur Übersicht](../)<br />
 > [Zurück zur Webeeite](https://datenflix.github.io)
