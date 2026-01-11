@@ -114,5 +114,5 @@ Insgesamt spiegeln die Ergebnisse eine Auseinandersetzung mit der Frage wider, w
 
 <br /><br />
 --- <br />
-> [Zurück zur Übersicht](../)
+> [Zurück zur Übersicht](../)<br />
 > [Zurück zur Webeeite](https://datenflix.github.io)
