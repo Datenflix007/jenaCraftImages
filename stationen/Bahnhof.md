@@ -8,7 +8,7 @@
 
 1. [Was ist GothaCraft?](#1-was-ist-gothacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse)`<br />`
+3. [Die Ergebnisse](#3-die-ergebnisse)<br />
    3.1 [GothaCraft – Stadt der Ideen](#31-gothacraft--stadt-der-ideen)
 4. [Zusammenfassung](#4-zusammenfassung)
 
@@ -107,8 +107,8 @@ Der Vogelblick auf das Gesamtmodell zeigt alle drei Stationen und das sie verbin
 
 Der Bahnhof ist mehr als ein Verkehrsknoten – er ist der grüne Mittelpunkt der von den Teilnehmenden entworfenen Stadt. Historische Bahnhofsarchitektur wird mit konsequenter Begrünung der Innen- und Außenbereiche verbunden. Als Knotenpunkt des gemeinsamen ÖPNV-Netzes aller drei Gruppen zeigt dieses Modell, dass nachhaltige Mobilität für Jugendliche kein Widerspruch zu Attraktivität und Aufenthaltsqualität ist – im Gegenteil.
 
-`<br /><br />`
+<br /><br />
 ---
 
-> [Zurück zur Übersicht](../)`<br />`
+> [Zurück zur Übersicht](../)<br />
 > [Zurück zur Webseite](https://datenflix007.github.io)
