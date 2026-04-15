@@ -1,4 +1,4 @@
-# JenaCraft - Images and Markdown Vorlagen
+# JenaCraft und Gothacraft - Schülerideen über eine Stadt der Zukunft
 ![Haeder](images/header.jpg)
 Im Rahmen der Tätigkeit als wissenschaftliche Hilfskraft in dem DHLabor der Professur Digital-Humanites wurden "Jena-Craft"-Workshops abgehalten. Für das volle Erlebnis der Ergebnispräsentation checken Sie die Webseite [4dcity](https://4dcity.org/intro) aus.
 
