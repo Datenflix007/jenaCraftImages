@@ -19,6 +19,11 @@ Im Rahmen der Tätigkeit als wissenschaftliche Hilfskraft in dem DHLabor der Pro
 - [Goethe-Gallerie](stationen/GoetheGalerie.md)
 - [Eichplatz + JenTower](stationen/JenTower_Eichplatz.md)
 
+### Stadt der Ideen – GothaCraft (Stiftung Friedenstein Gotha, 2026)
+- [Kino](stationen/Gotha_Kino.md)
+- [Bahnhof](stationen/Bahnhof.md)
+- [Schwimmbad](stationen/Gotha_Schwimmbad.md)
+
 <br /><br />
 ---
 > [Zurück zur Webseite](https://datenflix007.github.io)
