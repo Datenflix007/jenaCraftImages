@@ -2,7 +2,7 @@
 
 *von **Felix Staacke**   15.04.2026*
 
-![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/header.jpg)
+![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/header_gotha.png)
 
 ## Gliederung
 
