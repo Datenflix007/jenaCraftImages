@@ -8,7 +8,7 @@
 
 1. [Was ist GothaCraft?](#1-was-ist-gothacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse)`<br />`
+3. [Die Ergebnisse](#3-die-ergebnisse)<br />
    3.1 [GothaCraft – Stadt der Ideen](#31-gothacraft--stadt-der-ideen)
 4. [Zusammenfassung](#4-zusammenfassung)
 
@@ -111,8 +111,8 @@ Der Vogelblick auf das Gesamtmodell zeigt alle drei Stationen und das sie verbin
 
 Das Schwimmbad der Gruppe 3 ist ein beeindruckendes Beispiel dafür, wie Jugendliche öffentliche Freizeitinfrastruktur neu denken: Als grüner, biodiverser Freizeitort mit Blühwiese, Bienenstock und begrüntem Außenbereich verbindet es Erholung mit ökologischer Verantwortung. Die Einbindung in das gemeinsame ÖPNV-Netz und die Orientierung an der Klimaschutz-Mindmap machen dieses Modell zu einem stimmigen Teil der gemeinsam entworfenen Stadt der Zukunft.
 
-`<br /><br />`
+<br /><br />
 ---
 
-> [Zurück zur Übersicht](../)`<br />`
+> [Zurück zur Übersicht](../)<br />
 > [Zurück zur Webseite](https://datenflix007.github.io)
