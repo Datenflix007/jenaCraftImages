@@ -8,8 +8,8 @@
 
 1. [Was ist JenaCraft?](#was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse)<br />
-  3.1 [Witelo-Machbar Tag!](#31-witelo-machbar-tag)
+3. [Die Ergebnisse](#3-die-ergebnisse)`<br />`
+   3.1 [Witelo-Machbar Tag!](#31-witelo-machbar-tag)
 4. [Zusammenfassung](#4-zusammenfassung)
 
 ## 1. Was ist JenaCraft?
@@ -38,33 +38,44 @@ Rücksprache ist dies auch als AG über einen längeren Zeitraum anpassbar.
 
 ## 2. Über den Arbeitsprozess
 
-Durchgeführt wurde wurde der Kurs bisher **zweimal**. 
+Durchgeführt wurde das Projekt insgesamt **fünfmal**.
 
-Der erste Kurs fand als Winterferien Kurs von dem **14.04. bis zu dem 17.04.** in dem [Jugendzentrum Polaris](https://polaris-jena.de/) statt. Dabei haben die SuS in fünf 
-Kleingruppen die jeweils ausgesuchten Orte rekonstruiert und modifiziert. Die Kleingruppen agierten weitestgehend selbstständig.  
-Intervallmäßig wurden mit dem Dozenten Planungsmeetings einberufen. Dabei wurden konzeptionelle und gestalterische 
-Vorschläge geleistet.
-Abschließend stellten dei Schülerinnen und Schüler sich, und ihren Familien und Freunden gegenseitig ihren nachgebauten 
-Ort vor und begründeten, wie und warum diese Orte die Aspekte der Nachhaltigkeit und der **Erinnerungskultur** umsetzen.
-Im Zuge des ersten Kurses wurden folgende Orte umgesetzt:
-  - JenaCraft: Johannestor
-  - JenaCraft: Markt
-  - JenaCraft: Stadtkirche
+Der erste Kurs fand als Winterferien-Kurs vom **14.04. bis zum 17.04.2025** im [Jugendzentrum Polaris](https://polaris-jena.de/) statt. Dabei haben die SuS in fünf Kleingruppen die jeweils ausgesuchten Orte rekonstruiert und modifiziert. Im Zuge des ersten Kurses wurden folgende Orte umgesetzt:
 
-Der zweite Kurs fand im Zuge des [34. Witelo "mach-bar!"-Tages](https://www.witelo.de/mach-bar-tage/kw/bereich/kursdetails/kurs/A-142/kursname/34+mach-bar-Tag/kategorie-id/262/#inhalt) am **06.09.2025** statt. Dabei stellen sich sieben Jungs, an welchen Orten und aus welchen Gründen diese gerne ihre Freizeit verbringen. Dabei wurden drei Orte und Gebäude aus Jena nachgebaut und anhand von zuvor gemeinsam ausgearbeiteten Kritieren modifiziert. Die Gruppen agierten weitestgehend selbstständig, bekamen jedoch intervallmäßig Fragen und Anmerkugnen durch den Dozenten. Zu den drei Modellen gehören die folgenden drei Einträge:
-  - JenaCraft: JenTower / Eichplatz
-  - JenaCraft: Zeiss-Gebäude
-  - JenaCraft: Jugendzentrum Polaris
+- JenaCraft: Johannestor
+- JenaCraft: Markt
+- JenaCraft: Stadtkirche
 
-Der dritte Kurs fand als Ferienworkshop in der [*Ernst-Abbe-Bibliothek*](https://www.stadtbibliothek-jena.de/de/startseite/700073) zwischen dem 14. und 17.10.2025 statt. Dabei stellen sich nutzen 10 Teilnehmer die Möglichkeit, in Kleingruppen die Orte aus Jena nachzumodellieren und nach ihren Wünschen anzupassen. Dabei entstanden in drei Kleingruppen folgende Modelle:
-  - JenaCraft: JenTower / Eichtplatz
-  - JenaCraft: Ernst-Abbe-Bibliothek
-  - JenaCraft: Goethe-Galerie 
-Gefällt ihnen dieser Beitrag? dann schauen Sie sich doch gerne die anderen Beiträge zu dem Thema an.
+Der zweite Kurs fand im Zuge des [34. Witelo &#34;mach-bar!&#34;-Tages](https://www.witelo.de/mach-bar-tage/kw/bereich/kursdetails/kurs/A-142/kursname/34+mach-bar-Tag/kategorie-id/262/#inhalt) am **06.09.2025** statt. Dabei wurden drei Orte und Gebäude aus Jena nachgebaut und anhand von zuvor gemeinsam ausgearbeiteten Kriterien modifiziert:
+
+- JenaCraft: JenTower / Eichplatz
+- JenaCraft: Zeiss-Gebäude
+- JenaCraft: Jugendzentrum Polaris
+
+Der dritte Kurs fand als Ferienworkshop in der [*Ernst-Abbe-Bibliothek*](https://www.stadtbibliothek-jena.de/de/startseite/700073) zwischen dem **14. und 17.10.2025** statt. Dabei nutzten 10 Teilnehmer die Möglichkeit, in Kleingruppen Orte aus Jena nachzumodellieren und nach ihren Wünschen anzupassen:
+
+- JenaCraft: JenTower / Eichplatz
+- JenaCraft: Ernst-Abbe-Bibliothek
+- JenaCraft: Goethe-Galerie
+
+Der vierte Kurs fand im Zuge der Veranstaltung **„Stadt der Ideen"** an der [Stiftung Friedenstein Gotha](https://www.stiftung-friedenstein.de/) in **2026** statt. Erstmals wurde das Konzept auf die Innenstadt Gothas übertragen. 10 Teilnehmende arbeiteten auf iPads in drei Kleingruppen und rekonstruierten sowie modifizierten folgende Orte:
+
+- GothaCraft: Kino
+- GothaCraft: Bahnhof
+- GothaCraft: Schwimmbad
+
+Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Nachmodelliert wurden:
+
+- JenaCraft Ostbad
+- JenaCraft Marktplatz
+- JenaCraft Neue Mitte
+
+Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 
 ## 3. Die Ergebnisse
 
 ## 3.1 Witelo Machbar-Tag!
+
 Beim **Zeiss-Gebäude** stand besonders die ökologische Umgestaltung im Mittelpunkt: Vorgeschlagen wurde, das Innere des Hochhauses durch vertikale Begrünung mit Bäumen und Pflanzen lebendiger und gesünder zu gestalten, sodass ein grüner Innenraum entsteht, der Luftqualität, Wohlbefinden und Mikroklima verbessert. Gleichzeitig sollte das Dach mit Solarpaneelen ausgestattet werden, um erneuerbare Energien zu erzeugen und den Energiebedarf des Gebäudes nachhaltig zu decken. Auf diese Weise verbindet das Konzept ökologische Verantwortung mit innovativer Architektur und schafft ein zukunftsorientiertes Vorzeigeprojekt.
 ![Bild](https://github.com/Datenflix007/jenaCraftImages/blob/main/images/witelo25/witelo_zeiss_1.png)
 ![Bild](https://github.com/Datenflix007/jenaCraftImages/blob/main/images/witelo25/witelo_zeiss_2.png)
@@ -73,9 +84,11 @@ Neben der Modellierung in der Lernumgebung Minecraft fand auch eine Sicherung de
 ![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/witelo25/witelo_mindmap.png)
 
 ## 4. Zusammenfassung
+
 Das Thema Biodiversität, Begrünung der öffentlichen Flächen und Segmentieren von großen Asphaltflächen gilt auch in diesen Modellierungen -also den Stimmen der Jugendlichen Jenas- als unumgänglich.
 
-<br /><br />
+`<br /><br />`
 ---
-> [Zurück zur Übersicht](../)<br />
+
+> [Zurück zur Übersicht](../)`<br />`
 > [Zurück zur Webeeite](https://datenflix007.github.io)

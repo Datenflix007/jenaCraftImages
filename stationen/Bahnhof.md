@@ -35,7 +35,7 @@ sowie Jugendzentren. Durchgeführt auf iPads mit Minecraft-Education-Lizenzen de
 
 ## 2. Über den Arbeitsprozess
 
-Durchgeführt wurde das Projekt insgesamt **viermal**.
+Durchgeführt wurde das Projekt insgesamt **fünfmal**.
 
 Der erste Kurs fand als Winterferien-Kurs vom **14.04. bis zum 17.04.2025** im [Jugendzentrum Polaris](https://polaris-jena.de/) statt. Dabei haben die SuS in fünf Kleingruppen die jeweils ausgesuchten Orte rekonstruiert und modifiziert. Im Zuge des ersten Kurses wurden folgende Orte umgesetzt:
 
@@ -60,6 +60,11 @@ Der vierte Kurs fand im Zuge der Veranstaltung **„Stadt der Ideen"** an der [S
 - GothaCraft: Kino
 - GothaCraft: Bahnhof
 - GothaCraft: Schwimmbad
+
+Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Nachmodelliert wurden: 
+- JenaCraft Ostbad
+- JenaCraft Marktplatz
+- JenaCraft Neue Mitte
 
 Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 

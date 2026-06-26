@@ -8,7 +8,7 @@
 
 1. [Was ist GothaCraft?](#1-was-ist-gothacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse) <br />
+3. [Die Ergebnisse](#3-die-ergebnisse) `<br />`
    3.1 [GothaCraft – Stadt der Ideen](#31-gothacraft--stadt-der-ideen)
 4. [Zusammenfassung](#4-zusammenfassung)
 
@@ -35,7 +35,8 @@ sowie Jugendzentren. Durchgeführt auf iPads mit Minecraft-Education-Lizenzen de
 
 ## 2. Über den Arbeitsprozess
 
-Durchgeführt wurde das Projekt insgesamt **viermal**.
+
+Durchgeführt wurde das Projekt insgesamt **fünfmal**.
 
 Der erste Kurs fand als Winterferien-Kurs vom **14.04. bis zum 17.04.2025** im [Jugendzentrum Polaris](https://polaris-jena.de/) statt. Dabei haben die SuS in fünf Kleingruppen die jeweils ausgesuchten Orte rekonstruiert und modifiziert. Im Zuge des ersten Kurses wurden folgende Orte umgesetzt:
 
@@ -60,6 +61,12 @@ Der vierte Kurs fand im Zuge der Veranstaltung **„Stadt der Ideen"** an der [S
 - GothaCraft: Kino
 - GothaCraft: Bahnhof
 - GothaCraft: Schwimmbad
+
+Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Nachmodelliert wurden:
+
+- JenaCraft Ostbad
+- JenaCraft Marktplatz
+- JenaCraft Neue Mitte
 
 Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 
@@ -103,8 +110,8 @@ Der Vogelperspektivblick zeigt das gesamte Stadtmodell aller drei Gruppen, verbu
 
 Die Gruppe hat das Kino als lebendigen Freizeitort gestaltet, der über seine ursprüngliche Funktion als reiner Filmort hinausgeht: Begrünte Außenanlagen, Kirschblüten im Foyer und ein offener Veranstaltungsbereich machen es zum sozialen Treffpunkt. Die Einbindung in das gemeinsame ÖPNV-Netz zeigt, dass nachhaltige Mobilität für die Teilnehmenden kein abstraktes Konzept ist, sondern konkret in ihre Stadtvision eingeflossen ist.
 
-<br /><br />
+`<br /><br />`
 ---
 
-> [Zurück zur Übersicht](https://github.com/Datenflix007/jenaCraftImages/blob/main/README.md)<br />
+> [Zurück zur Übersicht](https://github.com/Datenflix007/jenaCraftImages/blob/main/README.md)`<br />`
 > [Zurück zur Webseite](https://datenflix007.github.io)

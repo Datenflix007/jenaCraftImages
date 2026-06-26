@@ -8,8 +8,8 @@
 
 1. [Was ist JenaCraft?](#was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse)<br />
-  3.1 [Ernst-Abbe-Bibliothek!](#31-ernst-abbe-bibliothek-ferienworkshop-1410-17102025)
+3. [Die Ergebnisse](#3-die-ergebnisse)`<br />`
+   3.1 [Ernst-Abbe-Bibliothek!](#31-ernst-abbe-bibliothek-ferienworkshop-1410-17102025)
 4. [Zusammenfassung](#4-zusammenfassung)
 
 ## 1. Was ist JenaCraft?
@@ -38,45 +38,54 @@ Rücksprache ist dies auch als AG über einen längeren Zeitraum anpassbar.
 
 ## 2. Über den Arbeitsprozess
 
-Durchgeführt wurde wurde der Kurs bisher **dreimal**. 
+Durchgeführt wurde das Projekt insgesamt **fünfmal**.
 
-Der erste Kurs fand als Winterferien Kurs von dem **14.04. bis zu dem 17.04.** in dem [Jugendzentrum Polaris](https://polaris-jena.de/) statt. Dabei haben die SuS in fünf 
-Kleingruppen die jeweils ausgesuchten Orte rekonstruiert und modifiziert. Die Kleingruppen agierten weitestgehend selbstständig.  
-Intervallmäßig wurden mit dem Dozenten Planungsmeetings einberufen. Dabei wurden konzeptionelle und gestalterische 
-Vorschläge geleistet.
-Abschließend stellten dei Schülerinnen und Schüler sich, und ihren Familien und Freunden gegenseitig ihren nachgebauten 
-Ort vor und begründeten, wie und warum diese Orte die Aspekte der Nachhaltigkeit und der **Erinnerungskultur** umsetzen.
-Im Zuge des ersten Kurses wurden folgende Orte umgesetzt:
-  - JenaCraft: Johannestor
-  - JenaCraft: Markt
-  - JenaCraft: Stadtkirche
+Der erste Kurs fand als Winterferien-Kurs vom **14.04. bis zum 17.04.2025** im [Jugendzentrum Polaris](https://polaris-jena.de/) statt. Dabei haben die SuS in fünf Kleingruppen die jeweils ausgesuchten Orte rekonstruiert und modifiziert. Im Zuge des ersten Kurses wurden folgende Orte umgesetzt:
 
-Der zweite Kurs fand im Zuge des [34. Witelo "mach-bar!"-Tages](https://www.witelo.de/mach-bar-tage/kw/bereich/kursdetails/kurs/A-142/kursname/34+mach-bar-Tag/kategorie-id/262/#inhalt) am **06.09.2025** statt. Dabei stellen sich sieben Jungs, an welchen Orten und aus welchen Gründen diese gerne ihre Freizeit verbringen. Dabei wurden drei Orte und Gebäude aus Jena nachgebaut und anhand von zuvor gemeinsam ausgearbeiteten Kritieren modifiziert. Die Gruppen agierten weitestgehend selbstständig, bekamen jedoch intervallmäßig Fragen und Anmerkugnen durch den Dozenten. Zu den drei Modellen gehören die folgenden drei Einträge:
-  - JenaCraft: JenTower / Eichplatz
-  - JenaCraft: Zeiss-Gebäude
-  - JenaCraft: Jugendzentrum Polaris
+- JenaCraft: Johannestor
+- JenaCraft: Markt
+- JenaCraft: Stadtkirche
 
-Der dritte Kurs fand als Ferienworkshop in der [*Ernst-Abbe-Bibliothek*](https://www.stadtbibliothek-jena.de/de/startseite/700073) zwischen dem 14. und 17.10.2025 statt. Dabei stellen sich nutzen 10 Teilnehmer die Möglichkeit, in Kleingruppen die Orte aus Jena nachzumodellieren und nach ihren Wünschen anzupassen. Dabei entstanden in drei Kleingruppen folgende Modelle:
-  - JenaCraft: JenTower / Eichtplatz
-  - JenaCraft: Ernst-Abbe-Bibliothek
-  - JenaCraft: Goethe-Galerie 
-  
-Gefällt ihnen dieser Beitrag? dann schauen Sie sich doch gerne die anderen Beiträge zu dem Thema an.
+Der zweite Kurs fand im Zuge des [34. Witelo &#34;mach-bar!&#34;-Tages](https://www.witelo.de/mach-bar-tage/kw/bereich/kursdetails/kurs/A-142/kursname/34+mach-bar-Tag/kategorie-id/262/#inhalt) am **06.09.2025** statt. Dabei wurden drei Orte und Gebäude aus Jena nachgebaut und anhand von zuvor gemeinsam ausgearbeiteten Kriterien modifiziert:
+
+- JenaCraft: JenTower / Eichplatz
+- JenaCraft: Zeiss-Gebäude
+- JenaCraft: Jugendzentrum Polaris
+
+Der dritte Kurs fand als Ferienworkshop in der [*Ernst-Abbe-Bibliothek*](https://www.stadtbibliothek-jena.de/de/startseite/700073) zwischen dem **14. und 17.10.2025** statt. Dabei nutzten 10 Teilnehmer die Möglichkeit, in Kleingruppen Orte aus Jena nachzumodellieren und nach ihren Wünschen anzupassen:
+
+- JenaCraft: JenTower / Eichplatz
+- JenaCraft: Ernst-Abbe-Bibliothek
+- JenaCraft: Goethe-Galerie
+
+Der vierte Kurs fand im Zuge der Veranstaltung **„Stadt der Ideen"** an der [Stiftung Friedenstein Gotha](https://www.stiftung-friedenstein.de/) in **2026** statt. Erstmals wurde das Konzept auf die Innenstadt Gothas übertragen. 10 Teilnehmende arbeiteten auf iPads in drei Kleingruppen und rekonstruierten sowie modifizierten folgende Orte:
+
+- GothaCraft: Kino
+- GothaCraft: Bahnhof
+- GothaCraft: Schwimmbad
+
+Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Nachmodelliert wurden:
+
+- JenaCraft Ostbad
+- JenaCraft Marktplatz
+- JenaCraft Neue Mitte
+
+Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 
 ## 3. Die Ergebnisse
 
 ## 3.1 Ernst-Abbe-Bibliothek: Ferienworkshop 14.10.-17.10.2025
+
 ![Mind-Map](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab/Mind-Map-online.de_.png)
 
-An dem ersten Tag trugen die Teilnehmer zusammen, welche Orte diese in ihrer Freizeit gerne besuchen und was an diesen charakteristisch ist (s. den gelben Ast). Noch am selben Tag wurden Gruppen gebildet, die begonnen, den gruppenweise ausgesuchten Ort nachzubauen. 
-Am zweiten Tag vermaßen die Teilnehmer mit digitalen Tools die Orte, planten mit einem Maßstab die Gebäude und stellten weitestgehend die bloße Nachstellung ab. 
-Am dritten Tag trugen die Teilnehmer mit Recherche Arbeit verschiedene Charakteristika zusammen, die bei einer nachhaltigen Stadtentwicklung relevant ist (s. grüner Zweig). 
+An dem ersten Tag trugen die Teilnehmer zusammen, welche Orte diese in ihrer Freizeit gerne besuchen und was an diesen charakteristisch ist (s. den gelben Ast). Noch am selben Tag wurden Gruppen gebildet, die begonnen, den gruppenweise ausgesuchten Ort nachzubauen.
+Am zweiten Tag vermaßen die Teilnehmer mit digitalen Tools die Orte, planten mit einem Maßstab die Gebäude und stellten weitestgehend die bloße Nachstellung ab.
+Am dritten Tag trugen die Teilnehmer mit Recherche Arbeit verschiedene Charakteristika zusammen, die bei einer nachhaltigen Stadtentwicklung relevant ist (s. grüner Zweig).
 
 <video  autoplay muted loop>
   <source src="https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab/goega/JenaCraft_EAB_GoeGa.mp4" type="video/mp4">
   Dein Browser unterstützt dieses Videoformat nicht.
 </video>
-
 
 Diese Gruppe hat die Goethe Galerie Jena in beeindruckender Genauigkeit und mit viel Liebe zum Detail nachgebildet. Schon die  Glasfassade und die markante Dachkonstruktion zeigen, wie sorgfältig sich die Gruppe mit der Architektur des Originals auseinandergesetzt hat. Doch neben der präzisen Rekonstruktion steht vor allem eines im Vordergrund: die kreative Neuinterpretation.
 
@@ -98,11 +107,12 @@ Auch das Thema Begrünung zieht sich durch das gesamte Modell. Sowohl im Inneren
 
 Die Qualität des Nachbaus ist dabei bemerkenswert: Die Teilnehmer haben nicht nur das äußere Erscheinungsbild präzise umgesetzt, sondern auch räumliche Tiefe, Proportionen und Innenstruktur eindrucksvoll nachempfunden. Gleichzeitig fließen zahlreiche farbige, verspielte und utopische Ideen ein, die das Projekt zu einer Mischung aus realistischer Architektur und kreativer Zukunftsvision machen.
 
-
 ## 4. Zusammenfassung
+
 Insgesamt zeigt dieses Modell, wie junge Menschen urbane Räume neu denken: Das heutige Einkaufszentrum als möglicher zukünftiger sozialer Treffpunkt, nachhaltiger Lebensraum und Erlebnisort – ein Projekt, das beweist, dass die Zukunft der Stadt nicht nur gebaut, sondern auch neu erfunden werden kann.
 
-<br /><br />
+`<br /><br />`
 ---
-> [Zurück zur Übersicht](../)<br />
+
+> [Zurück zur Übersicht](../)`<br />`
 > [Zurück zur Webeeite](https://datenflix007.github.io)

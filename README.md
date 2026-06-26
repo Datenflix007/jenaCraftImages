@@ -24,6 +24,11 @@ Im Rahmen der Tätigkeit als wissenschaftliche Hilfskraft in dem DHLabor der Pro
 - [Bahnhof](stationen/Bahnhof.md)
 - [Schwimmbad](stationen/Gotha_Schwimmbad.md)
 
+### JenaCraft am Angergymnasium Jena (26.06.2026)
+- [Ostbad](stationen/Ostbad.md)
+- [Markt](stationen/Markt.md)
+- [Neue Mitte](stationen/NeueMitte.md)
+
 <br /><br />
 ---
 > [Zurück zur Webseite](https://datenflix007.github.io)

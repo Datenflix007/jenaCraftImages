@@ -8,8 +8,9 @@
 
 1. [Was ist JenaCraft?](#was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse)<br />
-  3.1 [Winterferienkurs in dem Polaris](#31-winterferienkurs-polaris)
+3. [Die Ergebnisse](#3-die-ergebnisse)`<br />`
+   3.1 [Winterferienkurs in dem Polaris](#31-winterferienkurs-polaris)`<br />`
+   3.2 [Angergymnasium Jena](#32-angergymnasium-jena)
 4. [Zusammenfassung](#4-zusammenfassung)
 
 ## 1. Was ist JenaCraft?
@@ -38,43 +39,67 @@ Rücksprache ist dies auch als AG über einen längeren Zeitraum anpassbar.
 
 ## 2. Über den Arbeitsprozess
 
-Durchgeführt wurde wurde der Kurs bisher **zweimal**. 
+Durchgeführt wurde das Projekt insgesamt **fünfmal**.
 
-Der erste Kurs fand als Winterferien Kurs von dem **14.04. bis zu dem 17.04.** in dem [Jugendzentrum Polaris](https://polaris-jena.de/) statt. Dabei haben die SuS in fünf 
-Kleingruppen die jeweils ausgesuchten Orte rekonstruiert und modifiziert. Die Kleingruppen agierten weitestgehend selbstständig.  
-Intervallmäßig wurden mit dem Dozenten Planungsmeetings einberufen. Dabei wurden konzeptionelle und gestalterische 
-Vorschläge geleistet.
-Abschließend stellten dei Schülerinnen und Schüler sich, und ihren Familien und Freunden gegenseitig ihren nachgebauten 
-Ort vor und begründeten, wie und warum diese Orte die Aspekte der Nachhaltigkeit und der **Erinnerungskultur** umsetzen.
-Im Zuge des ersten Kurses wurden folgende Orte umgesetzt:
-  - JenaCraft: Johannestor
-  - JenaCraft: Markt
-  - JenaCraft: Stadtkirche
+Der erste Kurs fand als Winterferien-Kurs vom **14.04. bis zum 17.04.2025** im [Jugendzentrum Polaris](https://polaris-jena.de/) statt. Dabei haben die SuS in fünf Kleingruppen die jeweils ausgesuchten Orte rekonstruiert und modifiziert. Im Zuge des ersten Kurses wurden folgende Orte umgesetzt:
 
-Der zweite Kurs fand im Zuge des [34. Witelo "mach-bar!"-Tages](https://www.witelo.de/mach-bar-tage/kw/bereich/kursdetails/kurs/A-142/kursname/34+mach-bar-Tag/kategorie-id/262/#inhalt) am **06.09.2025** statt. Dabei stellen sich sieben Jungs, an welchen Orten und aus welchen Gründen diese gerne ihre Freizeit verbringen. Dabei wurden drei Orte und Gebäude aus Jena nachgebaut und anhand von zuvor gemeinsam ausgearbeiteten Kritieren modifiziert. Die Gruppen agierten weitestgehend selbstständig, bekamen jedoch intervallmäßig Fragen und Anmerkugnen durch den Dozenten. Zu den drei Modellen gehören die folgenden drei Einträge:
-  - JenaCraft: JenTower / Eichplatz
-  - JenaCraft: Zeiss-Gebäude
-  - JenaCraft: Jugendzentrum Polaris
+- JenaCraft: Johannestor
+- JenaCraft: Markt
+- JenaCraft: Stadtkirche
 
-Der dritte Kurs fand als Ferienworkshop in der [*Ernst-Abbe-Bibliothek*](https://www.stadtbibliothek-jena.de/de/startseite/700073) zwischen dem 14. und 17.10.2025 statt. Dabei stellen sich nutzen 10 Teilnehmer die Möglichkeit, in Kleingruppen die Orte aus Jena nachzumodellieren und nach ihren Wünschen anzupassen. Dabei entstanden in drei Kleingruppen folgende Modelle:
-  - JenaCraft: JenTower / Eichtplatz
-  - JenaCraft: Ernst-Abbe-Bibliothek
-  - JenaCraft: Goethe-Galerie 
-Gefällt ihnen dieser Beitrag? dann schauen Sie sich doch gerne die anderen Beiträge zu dem Thema an.
+Der zweite Kurs fand im Zuge des [34. Witelo &#34;mach-bar!&#34;-Tages](https://www.witelo.de/mach-bar-tage/kw/bereich/kursdetails/kurs/A-142/kursname/34+mach-bar-Tag/kategorie-id/262/#inhalt) am **06.09.2025** statt. Dabei wurden drei Orte und Gebäude aus Jena nachgebaut und anhand von zuvor gemeinsam ausgearbeiteten Kriterien modifiziert:
+
+- JenaCraft: JenTower / Eichplatz
+- JenaCraft: Zeiss-Gebäude
+- JenaCraft: Jugendzentrum Polaris
+
+Der dritte Kurs fand als Ferienworkshop in der [*Ernst-Abbe-Bibliothek*](https://www.stadtbibliothek-jena.de/de/startseite/700073) zwischen dem **14. und 17.10.2025** statt. Dabei nutzten 10 Teilnehmer die Möglichkeit, in Kleingruppen Orte aus Jena nachzumodellieren und nach ihren Wünschen anzupassen:
+
+- JenaCraft: JenTower / Eichplatz
+- JenaCraft: Ernst-Abbe-Bibliothek
+- JenaCraft: Goethe-Galerie
+
+Der vierte Kurs fand im Zuge der Veranstaltung **„Stadt der Ideen"** an der [Stiftung Friedenstein Gotha](https://www.stiftung-friedenstein.de/) in **2026** statt. Erstmals wurde das Konzept auf die Innenstadt Gothas übertragen. 10 Teilnehmende arbeiteten auf iPads in drei Kleingruppen und rekonstruierten sowie modifizierten folgende Orte:
+
+- GothaCraft: Kino
+- GothaCraft: Bahnhof
+- GothaCraft: Schwimmbad
+
+Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Nachmodelliert wurden:
+
+- JenaCraft Ostbad
+- JenaCraft Marktplatz
+- JenaCraft Neue Mitte
+
+Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 
 ## 3. Die Ergebnisse
 
 ## 3.1 Winterferienkurs Polaris
+
 In Minecraft wurde der Stadtmarkt Jena mit einer umfassenden Begrünung gestaltet. Neben Grünflächen integrierten die Teilnehmenden sogar Bienenstöcke, um die Bedeutung von Bestäubern hervorzuheben. Auch wenn eine solche Umsetzung im realen Stadtraum aufgrund möglicher Allergien schwierig wäre, verdeutlicht der Entwurf den klaren Fokus auf Biodiversität. Besonders bemerkenswert ist, dass diese Idee von der jüngsten Gruppe stammt – ein umso stärkeres Signal dafür, wie früh das Bewusstsein für ökologische Themen geweckt werden kann.
 ![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g2_0.png)
 ![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g2_1.png)
 ![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g2_02.png)
 ![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g2_3.png)
 
-## 4. Zusammenfassung
-Das Thema Biodiversität und Begrünung der öffentlichen Flächen ist in den Modellierungen als unumgänglich.
+## 3.2 Angergymnasium Jena
 
-<br /><br />
+Beim JenaCraft-Durchlauf am **Angergymnasium Jena** entstand zusätzlich ein Modell des **Marktplatzes**. Die Gruppe verband historische Platzstruktur mit neuen Aufenthalts- und Nutzungsideen: Der Platz wird als offener Treffpunkt verstanden, der durch Sitzbereiche, Wege, Wasser- und Gestaltungselemente sowie zusätzliche Nutzungen belebt wird.
+
+![Mindmap Angergymnasium](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/Mind-Map-online.de_%202.png)
+
+![Marktplatz Angergymnasium](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr2_0.png)
+![Marktplatz Angergymnasium Detail](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr2_1.png)
+![Marktplatz Angergymnasium Detail](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr2_2.png)
+![Marktplatz Angergymnasium Überblick](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr2_3.png)
+
+## 4. Zusammenfassung
+
+Das Thema Biodiversität und Begrünung der öffentlichen Flächen ist in den Modellierungen als unumgänglich. Der zusätzliche Angergymnasium-Durchlauf zeigt außerdem, dass zentrale Plätze von den Teilnehmenden als Treffpunkte gedacht werden, die Aufenthaltsqualität, Orientierung und flexible Nutzung zusammenbringen sollen.
+
+`<br /><br />`
 ---
-> [Zurück zur Übersicht](../)<br />
+
+> [Zurück zur Übersicht](../)`<br />`
 > [Zurück zur Webeeite](https://datenflix007.github.io)

@@ -1,4 +1,3 @@
-
 # JenaCraft: Stadtkirche
 
 *von **Felix Staacke**   10.08.2025*
@@ -9,8 +8,8 @@
 
 1. [Was ist JenaCraft?](#was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse)<br />
-  3.1 [Winterferienkurs in dem Polaris](#31-winterferienkurs-polaris)
+3. [Die Ergebnisse](#3-die-ergebnisse)`<br />`
+   3.1 [Winterferienkurs in dem Polaris](#31-winterferienkurs-polaris)
 4. [Zusammenfassung](#4-zusammenfassung)
 
 ## 1. Was ist JenaCraft?
@@ -39,67 +38,76 @@ Rücksprache ist dies auch als AG über einen längeren Zeitraum anpassbar.
 
 ## 2. Über den Arbeitsprozess
 
-Durchgeführt wurde wurde der Kurs bisher **zweimal**. 
+Durchgeführt wurde das Projekt insgesamt **fünfmal**.
 
-Der erste Kurs fand als Winterferien Kurs von dem **14.04. bis zu dem 17.04.** in dem [Jugendzentrum Polaris](https://polaris-jena.de/) statt. Dabei haben die SuS in fünf 
-Kleingruppen die jeweils ausgesuchten Orte rekonstruiert und modifiziert. Die Kleingruppen agierten weitestgehend selbstständig.  
-Intervallmäßig wurden mit dem Dozenten Planungsmeetings einberufen. Dabei wurden konzeptionelle und gestalterische 
-Vorschläge geleistet.
-Abschließend stellten dei Schülerinnen und Schüler sich, und ihren Familien und Freunden gegenseitig ihren nachgebauten 
-Ort vor und begründeten, wie und warum diese Orte die Aspekte der Nachhaltigkeit und der **Erinnerungskultur** umsetzen.
-Im Zuge des ersten Kurses wurden folgende Orte umgesetzt:
-  - JenaCraft: Johannestor
-  - JenaCraft: Markt
-  - JenaCraft: Stadtkirche
+Der erste Kurs fand als Winterferien-Kurs vom **14.04. bis zum 17.04.2025** im [Jugendzentrum Polaris](https://polaris-jena.de/) statt. Dabei haben die SuS in fünf Kleingruppen die jeweils ausgesuchten Orte rekonstruiert und modifiziert. Im Zuge des ersten Kurses wurden folgende Orte umgesetzt:
 
-Der zweite Kurs fand im Zuge des [34. Witelo "mach-bar!"-Tages](https://www.witelo.de/mach-bar-tage/kw/bereich/kursdetails/kurs/A-142/kursname/34+mach-bar-Tag/kategorie-id/262/#inhalt) am **06.09.2025** statt. Dabei stellen sich sieben Jungs, an welchen Orten und aus welchen Gründen diese gerne ihre Freizeit verbringen. Dabei wurden drei Orte und Gebäude aus Jena nachgebaut und anhand von zuvor gemeinsam ausgearbeiteten Kritieren modifiziert. Die Gruppen agierten weitestgehend selbstständig, bekamen jedoch intervallmäßig Fragen und Anmerkugnen durch den Dozenten. Zu den drei Modellen gehören die folgenden drei Einträge:
-  - JenaCraft: JenTower / Eichplatz
-  - JenaCraft: Zeiss-Gebäude
-  - JenaCraft: Jugendzentrum Polaris
+- JenaCraft: Johannestor
+- JenaCraft: Markt
+- JenaCraft: Stadtkirche
 
-Der dritte Kurs fand als Ferienworkshop in der [*Ernst-Abbe-Bibliothek*](https://www.stadtbibliothek-jena.de/de/startseite/700073) zwischen dem 14. und 17.10.2025 statt. Dabei stellen sich nutzen 10 Teilnehmer die Möglichkeit, in Kleingruppen die Orte aus Jena nachzumodellieren und nach ihren Wünschen anzupassen. Dabei entstanden in drei Kleingruppen folgende Modelle:
-  - JenaCraft: JenTower / Eichtplatz
-  - JenaCraft: Ernst-Abbe-Bibliothek
-  - JenaCraft: Goethe-Galerie 
+Der zweite Kurs fand im Zuge des [34. Witelo &#34;mach-bar!&#34;-Tages](https://www.witelo.de/mach-bar-tage/kw/bereich/kursdetails/kurs/A-142/kursname/34+mach-bar-Tag/kategorie-id/262/#inhalt) am **06.09.2025** statt. Dabei wurden drei Orte und Gebäude aus Jena nachgebaut und anhand von zuvor gemeinsam ausgearbeiteten Kriterien modifiziert:
 
-Gefällt ihnen dieser Beitrag? dann schauen Sie sich doch gerne die anderen Beiträge zu dem Thema an.
+- JenaCraft: JenTower / Eichplatz
+- JenaCraft: Zeiss-Gebäude
+- JenaCraft: Jugendzentrum Polaris
+
+Der dritte Kurs fand als Ferienworkshop in der [*Ernst-Abbe-Bibliothek*](https://www.stadtbibliothek-jena.de/de/startseite/700073) zwischen dem **14. und 17.10.2025** statt. Dabei nutzten 10 Teilnehmer die Möglichkeit, in Kleingruppen Orte aus Jena nachzumodellieren und nach ihren Wünschen anzupassen:
+
+- JenaCraft: JenTower / Eichplatz
+- JenaCraft: Ernst-Abbe-Bibliothek
+- JenaCraft: Goethe-Galerie
+
+Der vierte Kurs fand im Zuge der Veranstaltung **„Stadt der Ideen"** an der [Stiftung Friedenstein Gotha](https://www.stiftung-friedenstein.de/) in **2026** statt. Erstmals wurde das Konzept auf die Innenstadt Gothas übertragen. 10 Teilnehmende arbeiteten auf iPads in drei Kleingruppen und rekonstruierten sowie modifizierten folgende Orte:
+
+- GothaCraft: Kino
+- GothaCraft: Bahnhof
+- GothaCraft: Schwimmbad
+
+Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Nachmodelliert wurden:
+
+- JenaCraft Ostbad
+- JenaCraft Marktplatz
+- JenaCraft Neue Mitte
+
+Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
+
 ## 3. Die Ergebnisse
 
 ## 3.1 Winterferienkurs Polaris
 
 ![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g3_1.png)
 
-In **Gruppe 3** beschäftigten sich die Schülerinnen und Schüler mit der Frage, wie das Denkmal **barrierefrei** erfahrbar 
-werden kann, und entwarfen dafür vor allem die Lösung eines Aufzugs. Die Umsetzung erfolgte mit der spielinternen Logik, 
+In **Gruppe 3** beschäftigten sich die Schülerinnen und Schüler mit der Frage, wie das Denkmal **barrierefrei** erfahrbar
+werden kann, und entwarfen dafür vor allem die Lösung eines Aufzugs. Die Umsetzung erfolgte mit der spielinternen Logik,
 einem Wasserfall.**
 
-Ausgehend von **typischen Barrieren** (Treppenstufen, schmale Wege, fehlende Orientierung) planten sie eine stufenlose 
-Erschließung: breite, kontrastreich markierte Zugänge, klare Wegführung und als Kernstück ein Aufzug, der Besucherinnen 
-und Besucher vom Platzniveau auf die Aussichts- bzw. Informationshöhe bringt. Im Spiel realisierten sie das funktional 
-mit Minecraft-Bordmitteln (z. B. Redstone-Mechanik[^1] und/oder wasserbasierte Aufzüge) und ergänzten Bedienelemente auf 
-beiden Ebenen, damit der Lift unabhängig nutzbar ist. Begleitend setzten sie einfache Infotexte 
-ein, um die Orientierung zu erleichtern. Darüber hinaus wurdne Handläufe, Absperrungen und Beleuchtung wurden mit passenden Blöcken symbolisiert. 
-Darüber hinaus ist der Umsetzung zu enthnehmen, dass etwaige vorhandene Kunst auch ausgestellt wird. Die Gruppe diskutierte 
-außerdem, wie sich der Aufzug gestalterisch in das Denkmal und den Platz einfügt, ohne den historischen Charakter zu 
+Ausgehend von **typischen Barrieren** (Treppenstufen, schmale Wege, fehlende Orientierung) planten sie eine stufenlose
+Erschließung: breite, kontrastreich markierte Zugänge, klare Wegführung und als Kernstück ein Aufzug, der Besucherinnen
+und Besucher vom Platzniveau auf die Aussichts- bzw. Informationshöhe bringt. Im Spiel realisierten sie das funktional
+mit Minecraft-Bordmitteln (z. B. Redstone-Mechanik[^1] und/oder wasserbasierte Aufzüge) und ergänzten Bedienelemente auf
+beiden Ebenen, damit der Lift unabhängig nutzbar ist. Begleitend setzten sie einfache Infotexte
+ein, um die Orientierung zu erleichtern. Darüber hinaus wurdne Handläufe, Absperrungen und Beleuchtung wurden mit passenden Blöcken symbolisiert.
+Darüber hinaus ist der Umsetzung zu enthnehmen, dass etwaige vorhandene Kunst auch ausgestellt wird. Die Gruppe diskutierte
+außerdem, wie sich der Aufzug gestalterisch in das Denkmal und den Platz einfügt, ohne den historischen Charakter zu
 überlagern. Im Vordergrund stand das **Abwägen zwischen Denkmalschutz und Zugänglichkeit**.
-
-
 
 ![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g3_3.png)
 
 ![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g5_3.png)
 
-Statt bestehende Bilder einfach zu übernehmen, setzte Gruppe 5 an den Grundannahmen an: Sie prüfte etablierte 
-Nutzungskonzepte rund um Materialität, Ausstattung und entwickelte Alternativen. Dabei probierte die Gruppe etwas aus, 
-was sie hätten außerhalb des Spieles nicht machen können. Der Kirchenraum wurde geöffnet, es wurden unkonventionalle 
-Baummaterialien verwendet. Die von der Gruppe geäußerte Idee eines Disco-Bodens mit Musikboxen ist weniger als reale Bauabsicht zu verstehen, sondern als Bedürfnis: Aus den persönlichen Gesprächen ging hervor, dass die Idee Ausdruck eines Wunsches nach breiteren aufgestellten Raumsnutzungskonzepten in Ballungsräumen ist. 
+Statt bestehende Bilder einfach zu übernehmen, setzte Gruppe 5 an den Grundannahmen an: Sie prüfte etablierte
+Nutzungskonzepte rund um Materialität, Ausstattung und entwickelte Alternativen. Dabei probierte die Gruppe etwas aus,
+was sie hätten außerhalb des Spieles nicht machen können. Der Kirchenraum wurde geöffnet, es wurden unkonventionalle
+Baummaterialien verwendet. Die von der Gruppe geäußerte Idee eines Disco-Bodens mit Musikboxen ist weniger als reale Bauabsicht zu verstehen, sondern als Bedürfnis: Aus den persönlichen Gesprächen ging hervor, dass die Idee Ausdruck eines Wunsches nach breiteren aufgestellten Raumsnutzungskonzepten in Ballungsräumen ist.
 
-Anzumerken ist, dass selbstredent die Idee der Nutzung als eine *Disco* der Würde des religiösen Ortes widerspräche und daher kaum in Frage komme. Vielmeher macht der Impuls den Bedarf deutlich, in Ballungsräumen respektvoll gerahmte 
+Anzumerken ist, dass selbstredent die Idee der Nutzung als eine *Disco* der Würde des religiösen Ortes widerspräche und daher kaum in Frage komme. Vielmeher macht der Impuls den Bedarf deutlich, in Ballungsräumen respektvoll gerahmte
 Mehrfachnutzungen zu denken. Natürlich alles mit klaren Zeiten, Regeln und einer Gestaltung, die dem Charakter des jeweiligen Gebäudes gerecht wird.
 
 ![Bild](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/polaris25/g5_6.png)
 
 ## 4. Zusammenfassung
+
 Medienpädagogisch lies sich festhalten, dass die SuS die digitale Lernumgebung nutzen konnten, um ihre Wünsche und Vorstellungen zu artikulieren und zu modellieren:
 
 Die erarbeiteten Ideen kreisten vor allem um Barrierefreiheit, Gestaltungsspielräume und zukünftige Nutzungsmöglichkeiten. So entstand das Konzept eines barrierefreien Denkmals mit stufenlosen Zugängen, kontrastreicher Wegführung, Beleuchtung und einem Aufzug, der mithilfe von Minecraft-Mechaniken realisiert wurde. Ergänzt wurde dies durch Infotafeln und Orientierungshilfen, die den Zugang erleichtern und die historische Dimension verdeutlichen.
@@ -108,11 +116,10 @@ Ein weiterer Schwerpunkt lag auf dem Experimentieren mit ungewöhnlichen Materia
 
 Insgesamt spiegeln die Ergebnisse eine Auseinandersetzung mit der Frage wider, wie Denkmalpflege, Zugänglichkeit und neue Formen urbaner Raumnutzung miteinander in Einklang gebracht werden können.
 
+`<br /><br />`
+---
 
+> [Zurück zur Übersicht](../)`<br />`
+> [Zurück zur Webeeite](https://datenflix007.github.io)
 
 [^1]: Anmerkung: Redstone ist ein spezielles Mineral im Videospiel Minecraft, das ähnlich wie elektrische Kabel in der realen Welt funktioniert. Es kann Energie weiterleiten und damit Schalter, Türen, Lampen oder sogar komplexe Maschinen antreiben. Für jüngere Spieler:innen wirkt es wie eine Art „Magie-Staub“, für technisch Interessierte eher wie eine einfache Form von Elektrizität oder Logikschaltungen.
-
-<br /><br />
----
-> [Zurück zur Übersicht](../)<br />
-> [Zurück zur Webeeite](https://datenflix007.github.io)
