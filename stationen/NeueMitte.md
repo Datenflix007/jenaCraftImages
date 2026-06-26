@@ -8,7 +8,7 @@
 
 1. [Was ist JenaCraft?](#1-was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse)`<br />`
+3. [Die Ergebnisse](#3-die-ergebnisse)<br />
    3.1 [Angergymnasium Jena](#31-angergymnasium-jena)
 4. [Zusammenfassung](#4-zusammenfassung)
 
@@ -44,11 +44,7 @@ Der vierte Kurs fand im Zuge der Veranstaltung **„Stadt der Ideen"** an der [S
 - GothaCraft: Bahnhof
 - GothaCraft: Schwimmbad
 
-Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Nachmodelliert wurden:
-
-- JenaCraft Ostbad
-- JenaCraft Marktplatz
-- JenaCraft Neue Mitte
+Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Der Workshop fand unter erschwerten Rahmenbedingungen statt: Bei etwa **35 Grad** und **verkürztem Unterricht** musste die Arbeitszeit deutlich konzentrierter genutzt werden. Gerade deshalb ist bemerkenswert, wie klar die Gruppen die zuvor gesammelten Kriterien in bauliche Entscheidungen übersetzten. Wegen des heißen Sommertages modellierten drei Gruppen das **Ostbad** nach und um; weitere Gruppen arbeiteten am **Marktplatz** und an der **Neuen Mitte**. Die gemeinsame Mindmap und die Ergebnisse dieses Durchlaufs liegen unter `images/angergymnasium/`.
 
 Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 
@@ -56,19 +52,27 @@ Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beit
 
 ## 3.1 Angergymnasium Jena
 
-Die Gruppe zur **Neuen Mitte** griff das Umfeld um den JenTower und zentrale Innenstadtfunktionen auf. Das Modell verbindet eine klare Gebäudestruktur mit viel Glas, offenen Innenräumen und sichtbaren Freizeit- und Aufenthaltsbereichen. Die Neue Mitte wird dadurch als Ort verstanden, der Innenstadt, Begegnung und öffentliche Nutzbarkeit zusammenführt.
+![Mindmap Angergymnasium](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/Mind-Map-online.de_%202.png)
+
+Die Gruppe zur **Neuen Mitte** griff das Umfeld um den JenTower und zentrale Innenstadtfunktionen auf. Die Mindmap ist auch hier ein wichtiger Schlüssel: Besonders der Wunsch nach Gebäuden mit vielen Fenstern und modernem Baustil findet sich direkt im Modell wieder. Während die Ostbad-Gruppen vor allem Wasser, Schatten und Freizeitflächen betonten, übersetzt die Neue-Mitte-Gruppe dieselben Kriterien in eine innerstädtische Gebäudestruktur.
 
 ![Neue Mitte Außenansicht](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr3_0.png)
 ![Neue Mitte Detail](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr3_1.png)
 ![Neue Mitte Innenbereich](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr3_2.png)
 ![Neue Mitte Überblick](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr3_3.png)
 
+Die Außenansicht zeigt ein großes, helles Gebäude mit breiter Glasfassade und klarer Dachkante. Die vielen Fenster öffnen das Gebäude optisch zur Umgebung. Damit wird Transparenz zu einem städtebaulichen Wert: Die Neue Mitte soll nicht verschlossen oder abweisend wirken, sondern einsehbar, hell und öffentlich nutzbar sein. Im Hintergrund und in der Umgebung bleiben Bezüge zu anderen Jenaer Orten sichtbar, sodass das Modell die Neue Mitte als Teil eines größeren Stadtraums begreift.
+
+Im Innenraum fallen großzügige helle Flächen, Treppenanlagen, Lichtquellen und offene Sichtachsen auf. Die Gruppe gestaltet keine kleinteilige, überfüllte Innenstruktur, sondern einen Raum, der Orientierung und Bewegungsfreiheit bietet. Das passt zur Mindmap-Forderung nach Sauberkeit und moderner Gestaltung: Ordnung entsteht hier durch Übersichtlichkeit, helle Materialien und klare Raumteilung.
+
+Analytisch interessant ist außerdem, dass die Neue Mitte trotz ihrer baulichen Größe nicht als reines Konsum- oder Durchgangsgebäude erscheint. Die offenen Innenflächen und Treppen können als Aufenthalts- und Begegnungsbereiche gelesen werden. Gerade im Vergleich zu den Ostbad-Modellen zeigt sich ein gemeinsames Muster: Die Teilnehmenden wünschen sich öffentliche Orte, an denen man nicht nur schnell etwas erledigt, sondern bleiben kann. Für zentrale Innenstadtlagen bedeutet das: Transparenz, Sitz- und Aufenthaltsqualität, gute Orientierung und ein angenehmes Raumklima werden wichtiger als reine Verdichtung.
+
 ## 4. Zusammenfassung
 
-Das Modell der Neuen Mitte zeigt, wie Jugendliche zentrale Stadträume als offene, transparente und nutzungsreiche Orte denken. Besonders auffällig ist der Wunsch nach gut einsehbaren Innenräumen, Aufenthaltsqualität und einer Innenstadt, die mehr bietet als reine Verkehrs- oder Einkaufsflächen.
+Das Modell der Neuen Mitte zeigt, wie Jugendliche zentrale Stadträume als offene, transparente und nutzungsreiche Orte denken. Besonders auffällig ist der Wunsch nach gut einsehbaren Innenräumen, heller Architektur, Aufenthaltsqualität und einer Innenstadt, die mehr bietet als reine Verkehrs- oder Einkaufsflächen.
 
-`<br /><br />`
+<br /><br />
 ---
 
-> [Zurück zur Übersicht](https://github.com/Datenflix007/jenaCraftImages/blob/main/README.md)`<br />`
+> [Zurück zur Übersicht](https://github.com/Datenflix007/jenaCraftImages/blob/main/README.md)<br />
 > [Zurück zur Webseite](https://datenflix007.github.io)

@@ -8,7 +8,7 @@
 
 1. [Was ist JenaCraft?](#1-was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse)`<br />`
+3. [Die Ergebnisse](#3-die-ergebnisse)<br />
    3.1 [Angergymnasium Jena](#31-angergymnasium-jena)
 4. [Zusammenfassung](#4-zusammenfassung)
 
@@ -46,11 +46,7 @@ Der vierte Kurs fand im Zuge der Veranstaltung **„Stadt der Ideen"** an der [S
 - GothaCraft: Bahnhof
 - GothaCraft: Schwimmbad
 
-Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Nachmodelliert wurden:
-
-- JenaCraft Ostbad
-- JenaCraft Marktplatz
-- JenaCraft Neue Mitte
+Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Der Workshop fand unter erschwerten Rahmenbedingungen statt: Bei etwa **35 Grad** und **verkürztem Unterricht** musste die Arbeitszeit deutlich konzentrierter genutzt werden. Gerade deshalb ist bemerkenswert, wie klar die Gruppen die zuvor gesammelten Kriterien in bauliche Entscheidungen übersetzten. Wegen des heißen Sommertages modellierten drei Gruppen das **Ostbad** nach und um; weitere Gruppen arbeiteten am **Marktplatz** und an der **Neuen Mitte**. Die gemeinsame Mindmap und die Ergebnisse dieses Durchlaufs liegen unter `images/angergymnasium/`.
 
 Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 
@@ -58,7 +54,11 @@ Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beit
 
 ## 3.1 Angergymnasium Jena
 
-Die drei Ostbad-Gruppen griffen das Schwimmbad als besonders naheliegenden Sommer- und Freizeitort auf. In den Modellen wurde das Ostbad nicht nur als Badeort verstanden, sondern als grüner, offener und gut nutzbarer Aufenthaltsraum mit Wasserflächen, Sitzbereichen, Schatten, Bäumen und ergänzenden Freizeitangeboten.
+![Mindmap Angergymnasium](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/Mind-Map-online.de_%202.png)
+
+Die Mindmap des Angergymnasium-Durchlaufs zeigt eine auffallend klare Priorisierung. Unter den **Must-haves** sammelten die Teilnehmenden Schwimmbecken, Bäume und Begrünung, Sauberkeit, Bänke, Liegen und Tische, Brunnen bzw. Wasserspender sowie moderne Gebäude mit vielen Fenstern. Als **No-Gos** wurden Graffiti und Verschmutzung benannt. Diese Gegenüberstellung ist für die Auswertung zentral: Die Modelle reagieren nicht nur auf die Frage, welche Orte Jugendliche mögen, sondern formulieren konkrete Kriterien für nutzbare, klimaangepasste und sozial angenehme Freizeiträume.
+
+Dass drei Gruppen das **Ostbad** auswählten, ist vor dem Hintergrund des Workshoptages besonders aussagekräftig. Bei etwa **35 Grad** und verkürztem Unterricht wurde Wasser unmittelbar als städtische Ressource erfahrbar. Die Gruppen übertrugen diesen Eindruck in ihre Modelle: Wasserflächen stehen im Zentrum, werden aber fast immer mit Schatten, Sitzgelegenheiten, klaren Wegen und Begrünung verbunden. Das Ostbad wird dadurch nicht als isoliertes Schwimmbecken dargestellt, sondern als öffentlicher Erholungsraum, der Hitze, Bewegung, Aufenthalt und soziale Nutzung zusammendenkt.
 
 ![Ostbad Gruppe 1](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr1_0.png)
 ![Ostbad Gruppe 1 Detail](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr1_1.png)
@@ -68,12 +68,16 @@ Die drei Ostbad-Gruppen griffen das Schwimmbad als besonders naheliegenden Somme
 ![Ostbad Gruppe 1 Detail](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr1_5.png)
 ![Ostbad Gruppe 1 Überblick](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr1_6.png)
 
-Eine Gruppe legte den Schwerpunkt auf ein großzügiges Außengelände mit Becken, Rutsche, Liegeflächen und bepflanzten Randbereichen. Die Modellierung zeigt, wie stark die Jugendlichen das Ostbad als gemeinschaftlichen Sommerort wahrnehmen.
+Die erste Ostbad-Gruppe entwickelte ein sehr differenziertes Freibadareal. Im Überblick sind mehrere Becken, ein Sprungbereich, Wegeachsen, Liegeflächen, Sitzbereiche, Picknickzonen, Blumenflächen und viele Bäume erkennbar. Besonders deutlich ist die Übersetzung der Mindmap: Das Schwimmbecken bildet den Mittelpunkt, die Begrünung rahmt die Anlage, und die Sitz- und Liegezonen machen aus dem Bad einen Aufenthaltsort über das reine Schwimmen hinaus. Die weißen Weg- und Beckenränder erzeugen Ordnung und Sauberkeit; die Blumen, Kirschblütenbäume und Wiesenbereiche setzen ein Gegenbild zu den in der Mindmap genannten No-Gos Verschmutzung und Graffiti.
+
+Analytisch interessant ist außerdem, dass die Gruppe Funktionsbereiche voneinander trennt, aber sichtbar miteinander verbindet. Kinder- bzw. Nebenbecken, großes Becken, Rutsche, Sitzplätze und Grünzonen sind nicht beliebig verteilt, sondern über Wege und Blickachsen organisiert. Damit entsteht ein Modell, das Sicherheits- und Orientierungsbedürfnisse ebenso aufgreift wie Freizeitspaß. Gerade bei einem Hitzetag zeigt sich hier ein intuitives Verständnis dafür, dass klimaangepasste Freizeitorte nicht nur Wasser brauchen, sondern auch Schatten, Wegeführung und Erholungsflächen.
 
 ![Ostbad Gruppe 4](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr4_0.png)
 ![Ostbad Gruppe 4 Detail](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr4_1.png)
 
-Eine weitere Gruppe ergänzte das Ostbad um praktische Details wie Öffnungszeiten, Temperaturangaben und klar gegliederte Zugangsbereiche. Dadurch wirkt das Modell weniger wie eine reine Fantasiefläche, sondern wie ein funktionaler öffentlicher Ort.
+Die zweite Ostbad-Gruppe betonte den Charakter eines kompakten, gut nutzbaren Freibads. Das große Becken, die markante Rutsche, Sitzbereiche, Hecken und Bäume zeigen ebenfalls die Verbindung von Wasser, Aufenthalt und Begrünung. Auffällig ist der klare Zaun bzw. die Einfassung des Areals: Das Modell denkt das Ostbad als öffentlichen, aber geordneten Raum. Die Begrenzung wirkt nicht abweisend, sondern strukturiert die Nutzung und grenzt den Badebereich von der Umgebung ab.
+
+Die Bilder zeigen zudem eine starke Orientierung an Aufenthaltsqualität. Neben dem Becken finden sich Liege- und Sitzbereiche, begrünte Ränder und schattenspendende Bäume. Damit wird die Mindmap-Forderung nach Bänken, Liegen und Tischen nicht dekorativ, sondern funktional eingesetzt: Die Jugendlichen modellieren das Bad als Ort, an dem man Pausen macht, wartet, sich trifft und sich vor Hitze schützt.
 
 ![Ostbad Gruppe 5](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr5_0.png)
 ![Ostbad Gruppe 5 Detail](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr5_1.png)
@@ -86,12 +90,16 @@ Eine weitere Gruppe ergänzte das Ostbad um praktische Details wie Öffnungszeit
 ![Ostbad Gruppe 5 Detail](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr5_8.png)
 ![Ostbad Gruppe 5 Detail](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr5_9.png)
 
+Die dritte Ostbad-Gruppe ergänzte den Badeort um besonders viele alltagspraktische Details. In den Screenshots sind Hinweise zu Öffnungszeiten und Temperaturen, abgegrenzte Grünbereiche, ein Baumhaus, Sitzbereiche, Beete und klar markierte Aufenthaltszonen erkennbar. Diese Beschilderung ist mehr als ein Detail: Sie zeigt, dass die Gruppe das Ostbad als real funktionierende Infrastruktur begreift. Öffnungszeiten, Temperaturangaben und Orientierungsschilder übersetzen die Idee eines öffentlichen Ortes in Regeln, Service und Zugänglichkeit.
+
+Auch hier wird die Mindmap konsequent umgesetzt. Der Wunsch nach Privatsphäre, Sauberkeit und modernen, geordneten Anlagen erscheint in der klaren Gliederung des Geländes. Gleichzeitig zeigt das Baumhaus, dass die Gruppe nicht nur Versorgung und Ordnung, sondern auch spielerische Rückzugsorte mitdenkt. Das ist für die Altersgruppe bedeutsam: Die Teilnehmenden entwerfen keinen rein erwachsenen Funktionsraum, sondern einen Ort, an dem Kinder und Jugendliche eigene Bewegungs- und Aufenthaltsmöglichkeiten haben.
+
 ## 4. Zusammenfassung
 
-Die Ostbad-Modelle zeigen, dass die Teilnehmenden öffentliche Freizeitorte besonders dann attraktiv finden, wenn Wasser, Schatten, Grünflächen und gemeinschaftliche Aufenthaltsbereiche zusammengedacht werden. Das warme Wetter des Workshoptages spiegelte sich unmittelbar in der Themenwahl und in den gebauten Ideen wider.
+Die Ostbad-Modelle zeigen, dass die Teilnehmenden öffentliche Freizeitorte besonders dann attraktiv finden, wenn Wasser, Schatten, Grünflächen, Sauberkeit, Orientierung und gemeinschaftliche Aufenthaltsbereiche zusammengedacht werden. Die 35 Grad am Workshoptag wirkten dabei nicht nur als äußere Belastung, sondern auch als inhaltlicher Impuls: Die Modelle machen sichtbar, wie junge Menschen klimaangepasste Stadträume aus ihrer eigenen Nutzungsperspektive entwerfen.
 
-`<br /><br />`
+<br /><br />
 ---
 
-> [Zurück zur Übersicht](https://github.com/Datenflix007/jenaCraftImages/blob/main/README.md)`<br />`
+> [Zurück zur Übersicht](https://github.com/Datenflix007/jenaCraftImages/blob/main/README.md)<br />
 > [Zurück zur Webseite](https://datenflix007.github.io)

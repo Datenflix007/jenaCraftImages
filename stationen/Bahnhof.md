@@ -61,10 +61,7 @@ Der vierte Kurs fand im Zuge der Veranstaltung **„Stadt der Ideen"** an der [S
 - GothaCraft: Bahnhof
 - GothaCraft: Schwimmbad
 
-Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Nachmodelliert wurden: 
-- JenaCraft Ostbad
-- JenaCraft Marktplatz
-- JenaCraft Neue Mitte
+Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Der Workshop fand unter erschwerten Rahmenbedingungen statt: Bei etwa **35 Grad** und **verkürztem Unterricht** musste die Arbeitszeit deutlich konzentrierter genutzt werden. Gerade deshalb ist bemerkenswert, wie klar die Gruppen die zuvor gesammelten Kriterien in bauliche Entscheidungen übersetzten. Wegen des heißen Sommertages modellierten drei Gruppen das **Ostbad** nach und um; weitere Gruppen arbeiteten am **Marktplatz** und an der **Neuen Mitte**. Die gemeinsame Mindmap und die Ergebnisse dieses Durchlaufs liegen unter `images/angergymnasium/`.
 
 Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 

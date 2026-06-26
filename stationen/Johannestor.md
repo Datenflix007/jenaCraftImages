@@ -8,7 +8,7 @@
 
 1. [Was ist JenaCraft?](#was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse)`<br />`
+3. [Die Ergebnisse](#3-die-ergebnisse)<br />
    3.1 [Winterferienkurs in dem Polaris](#31-winterferienkurs-polaris)
 4. [Zusammenfassung](#4-zusammenfassung)
 
@@ -64,11 +64,7 @@ Der vierte Kurs fand im Zuge der Veranstaltung **„Stadt der Ideen"** an der [S
 - GothaCraft: Bahnhof
 - GothaCraft: Schwimmbad
 
-Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Nachmodelliert wurden:
-
-- JenaCraft Ostbad
-- JenaCraft Marktplatz
-- JenaCraft Neue Mitte
+Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Der Workshop fand unter erschwerten Rahmenbedingungen statt: Bei etwa **35 Grad** und **verkürztem Unterricht** musste die Arbeitszeit deutlich konzentrierter genutzt werden. Gerade deshalb ist bemerkenswert, wie klar die Gruppen die zuvor gesammelten Kriterien in bauliche Entscheidungen übersetzten. Wegen des heißen Sommertages modellierten drei Gruppen das **Ostbad** nach und um; weitere Gruppen arbeiteten am **Marktplatz** und an der **Neuen Mitte**. Die gemeinsame Mindmap und die Ergebnisse dieses Durchlaufs liegen unter `images/angergymnasium/`.
 
 Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 
@@ -98,8 +94,8 @@ Die **andere Gruppe** legte folgenden Fokus: Barrierefreiheit wurde durch den Ei
 
 Festzuhalten ist also, dass anhand dieser Modellierung die SuS ebenso eine Begrünung des öffentlichen Raumes, das barrierefreie Begehbarmachen sowie die Sensibilisierung für inklusive Gestaltungskonzepte einfordern. Darüber hinaus setzen sie sich für Barrierefreiheit in Denkmälern und öffentlichen Bereichen ein, um allen Menschen gleichermaßen Zugang und Teilhabe zu ermöglichen. Ergänzend entwickeln sie Ideen zur Begrünung urbaner Flächen, wodurch nicht nur das Stadtbild aufgewertet, sondern auch ein Beitrag zum Klima- und Umweltschutz geleistet wird. Zudem schlagen die SuS ein alternatives Nutzungskonzept vor, etwa die innovative Integration von Serverkühlung innerhalb historischer Steinbauten, wodurch Denkmalschutz und moderne Technologie sinnvoll miteinander verbunden werden können. Schließlich fordern sie mehr Infotexte und öffentlich zugängliche Aufklärungsmaterialien, um die Gesellschaft für nachhaltige, inklusive und innovative Nutzung öffentlicher Räume stärker zu sensibilisieren.
 
-`<br /><br />`
+<br /><br />
 ---
 
-> [Zurück zur Übersicht](../)`<br />`
+> [Zurück zur Übersicht](../)<br />
 > [Zurück zur Webeeite](https://datenflix007.github.io)

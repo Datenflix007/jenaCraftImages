@@ -8,8 +8,8 @@
 
 1. [Was ist JenaCraft?](#was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse)`<br />`
-   3.1 [Winterferienkurs in dem Polaris](#31-winterferienkurs-polaris)`<br />`
+3. [Die Ergebnisse](#3-die-ergebnisse)<br />
+   3.1 [Winterferienkurs in dem Polaris](#31-winterferienkurs-polaris)<br />
    3.2 [Angergymnasium Jena](#32-angergymnasium-jena)
 4. [Zusammenfassung](#4-zusammenfassung)
 
@@ -65,11 +65,7 @@ Der vierte Kurs fand im Zuge der Veranstaltung **„Stadt der Ideen"** an der [S
 - GothaCraft: Bahnhof
 - GothaCraft: Schwimmbad
 
-Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Nachmodelliert wurden:
-
-- JenaCraft Ostbad
-- JenaCraft Marktplatz
-- JenaCraft Neue Mitte
+Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Der Workshop fand unter erschwerten Rahmenbedingungen statt: Bei etwa **35 Grad** und **verkürztem Unterricht** musste die Arbeitszeit deutlich konzentrierter genutzt werden. Gerade deshalb ist bemerkenswert, wie klar die Gruppen die zuvor gesammelten Kriterien in bauliche Entscheidungen übersetzten. Wegen des heißen Sommertages modellierten drei Gruppen das **Ostbad** nach und um; weitere Gruppen arbeiteten am **Marktplatz** und an der **Neuen Mitte**. Die gemeinsame Mindmap und die Ergebnisse dieses Durchlaufs liegen unter `images/angergymnasium/`.
 
 Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 
@@ -85,21 +81,27 @@ In Minecraft wurde der Stadtmarkt Jena mit einer umfassenden Begrünung gestalte
 
 ## 3.2 Angergymnasium Jena
 
-Beim JenaCraft-Durchlauf am **Angergymnasium Jena** entstand zusätzlich ein Modell des **Marktplatzes**. Die Gruppe verband historische Platzstruktur mit neuen Aufenthalts- und Nutzungsideen: Der Platz wird als offener Treffpunkt verstanden, der durch Sitzbereiche, Wege, Wasser- und Gestaltungselemente sowie zusätzliche Nutzungen belebt wird.
-
 ![Mindmap Angergymnasium](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/Mind-Map-online.de_%202.png)
+
+Beim JenaCraft-Durchlauf am **Angergymnasium Jena** entstand zusätzlich ein Modell des **Marktplatzes**. Die Mindmap liefert für diese Modellierung einen wichtigen Deutungsrahmen: Auch beim Marktplatz tauchen die zentralen Kriterien Wasser, Begrünung, Sauberkeit, Sitzmöglichkeiten und moderne, helle Bauformen wieder auf. Der Marktplatz wird damit nicht nur als historischer Stadtraum verstanden, sondern als Ort, der unter heutigen Bedingungen Aufenthaltsqualität, Versorgung und soziale Begegnung leisten muss.
 
 ![Marktplatz Angergymnasium](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr2_0.png)
 ![Marktplatz Angergymnasium Detail](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr2_1.png)
 ![Marktplatz Angergymnasium Detail](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr2_2.png)
 ![Marktplatz Angergymnasium Überblick](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/angergymnasium/gr2_3.png)
 
+In den Bildern wird der Marktplatz als gegliederter öffentlicher Raum entworfen. Zentral steht ein helles, monumentartiges Bauwerk mit Wasserbezug; darum herum ordnen sich Wege, Marktstände, Aufenthaltsflächen und kleinere Gebäude. Die Gruppe übersetzt damit den Wunsch nach Brunnen bzw. Wasserspendern in ein sichtbares Zentrum des Platzes. Wasser ist hier kein Nebenelement, sondern ein identitätsstiftender Punkt, der Orientierung schafft und an heißen Tagen Aufenthaltsqualität erhöht.
+
+Auffällig sind auch die Marktstände mit farbigen Dächern und Warenpräsentationen. Sie machen den Platz zu einem sozialen und wirtschaftlichen Treffpunkt. Die Teilnehmenden denken den Marktplatz also nicht als leere Fläche, sondern als nutzbaren Stadtraum mit Versorgung, Begegnung und Alltag. Das ist analytisch bedeutsam, weil damit eine Kritik an ungenutzten oder rein durchlaufenen Innenstadtflächen mitschwingt: Ein guter Platz braucht Aktivität, Sitz- und Haltepunkte sowie eine erkennbare Mitte.
+
+Die Materialwahl und die klare Pflasterstruktur wirken geordnet und sauber. Damit greift die Gruppe direkt die Mindmap-Abgrenzung gegen Verschmutzung und Graffiti auf. Gleichzeitig bleiben Grün- und Wasseranteile sichtbar, sodass der Platz nicht vollständig versiegelt erscheint. Gerade vor dem Hintergrund von 35 Grad wird deutlich: Die Jugendlichen verbinden Urbanität nicht mit maximaler Bebauung, sondern mit einer Balance aus befestigter Fläche, Schatten, Erfrischung und sozialer Nutzbarkeit.
+
 ## 4. Zusammenfassung
 
-Das Thema Biodiversität und Begrünung der öffentlichen Flächen ist in den Modellierungen als unumgänglich. Der zusätzliche Angergymnasium-Durchlauf zeigt außerdem, dass zentrale Plätze von den Teilnehmenden als Treffpunkte gedacht werden, die Aufenthaltsqualität, Orientierung und flexible Nutzung zusammenbringen sollen.
+Das Thema Biodiversität und Begrünung der öffentlichen Flächen ist in den Modellierungen als unumgänglich. Der zusätzliche Angergymnasium-Durchlauf zeigt außerdem, dass zentrale Plätze von den Teilnehmenden als Treffpunkte gedacht werden, die Aufenthaltsqualität, Orientierung, Wasser, Sauberkeit und flexible Nutzung zusammenbringen sollen.
 
-`<br /><br />`
+<br /><br />
 ---
 
-> [Zurück zur Übersicht](../)`<br />`
+> [Zurück zur Übersicht](../)<br />
 > [Zurück zur Webeeite](https://datenflix007.github.io)

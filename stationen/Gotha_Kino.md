@@ -8,7 +8,7 @@
 
 1. [Was ist GothaCraft?](#1-was-ist-gothacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse) `<br />`
+3. [Die Ergebnisse](#3-die-ergebnisse) <br />
    3.1 [GothaCraft – Stadt der Ideen](#31-gothacraft--stadt-der-ideen)
 4. [Zusammenfassung](#4-zusammenfassung)
 
@@ -62,11 +62,7 @@ Der vierte Kurs fand im Zuge der Veranstaltung **„Stadt der Ideen"** an der [S
 - GothaCraft: Bahnhof
 - GothaCraft: Schwimmbad
 
-Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Nachmodelliert wurden:
-
-- JenaCraft Ostbad
-- JenaCraft Marktplatz
-- JenaCraft Neue Mitte
+Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Der Workshop fand unter erschwerten Rahmenbedingungen statt: Bei etwa **35 Grad** und **verkürztem Unterricht** musste die Arbeitszeit deutlich konzentrierter genutzt werden. Gerade deshalb ist bemerkenswert, wie klar die Gruppen die zuvor gesammelten Kriterien in bauliche Entscheidungen übersetzten. Wegen des heißen Sommertages modellierten drei Gruppen das **Ostbad** nach und um; weitere Gruppen arbeiteten am **Marktplatz** und an der **Neuen Mitte**. Die gemeinsame Mindmap und die Ergebnisse dieses Durchlaufs liegen unter `images/angergymnasium/`.
 
 Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 
@@ -110,8 +106,8 @@ Der Vogelperspektivblick zeigt das gesamte Stadtmodell aller drei Gruppen, verbu
 
 Die Gruppe hat das Kino als lebendigen Freizeitort gestaltet, der über seine ursprüngliche Funktion als reiner Filmort hinausgeht: Begrünte Außenanlagen, Kirschblüten im Foyer und ein offener Veranstaltungsbereich machen es zum sozialen Treffpunkt. Die Einbindung in das gemeinsame ÖPNV-Netz zeigt, dass nachhaltige Mobilität für die Teilnehmenden kein abstraktes Konzept ist, sondern konkret in ihre Stadtvision eingeflossen ist.
 
-`<br /><br />`
+<br /><br />
 ---
 
-> [Zurück zur Übersicht](https://github.com/Datenflix007/jenaCraftImages/blob/main/README.md)`<br />`
+> [Zurück zur Übersicht](https://github.com/Datenflix007/jenaCraftImages/blob/main/README.md)<br />
 > [Zurück zur Webseite](https://datenflix007.github.io)

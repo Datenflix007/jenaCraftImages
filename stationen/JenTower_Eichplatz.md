@@ -8,8 +8,8 @@
 
 1. [Was ist JenaCraft?](#was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse)`<br />`
-   3.1 [Witelo-Machbar Tag!](#31-witelo-machbar-tag)`<br />`
+3. [Die Ergebnisse](#3-die-ergebnisse)<br />
+   3.1 [Witelo-Machbar Tag!](#31-witelo-machbar-tag)<br />
    3.2 [Ernst-Abbe-Bibliothek](#32-ernst-abbe-bibliothek-ferienworkshop-1410-17102025)
 4. [Zusammenfassung](#4-zusammenfassung)
 
@@ -65,11 +65,7 @@ Der vierte Kurs fand im Zuge der Veranstaltung **„Stadt der Ideen"** an der [S
 - GothaCraft: Bahnhof
 - GothaCraft: Schwimmbad
 
-Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Nachmodelliert wurden:
-
-- JenaCraft Ostbad
-- JenaCraft Marktplatz
-- JenaCraft Neue Mitte
+Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Der Workshop fand unter erschwerten Rahmenbedingungen statt: Bei etwa **35 Grad** und **verkürztem Unterricht** musste die Arbeitszeit deutlich konzentrierter genutzt werden. Gerade deshalb ist bemerkenswert, wie klar die Gruppen die zuvor gesammelten Kriterien in bauliche Entscheidungen übersetzten. Wegen des heißen Sommertages modellierten drei Gruppen das **Ostbad** nach und um; weitere Gruppen arbeiteten am **Marktplatz** und an der **Neuen Mitte**. Die gemeinsame Mindmap und die Ergebnisse dieses Durchlaufs liegen unter `images/angergymnasium/`.
 
 Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 
@@ -112,8 +108,8 @@ Die Qualität des Nachbaus ist bemerkenswert: Der Jentower wurde präzise umgese
 
 Das Thema Biodiversität, Begrünung der öffentlichen Flächen und Segmentieren von großen Asphaltflächen gilt auch in diesen Modellierungen -also den Stimmen der Jugendlichen Jenas- als unumgänglich.
 
-`<br /><br />`
+<br /><br />
 ---
 
-> [Zurück zur Übersicht](../)`<br />`
+> [Zurück zur Übersicht](../)<br />
 > [Zurück zur Webeeite](https://datenflix007.github.io)

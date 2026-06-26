@@ -8,7 +8,7 @@
 
 1. [Was ist JenaCraft?](#was-ist-jenacraft)
 2. [Über den Arbeitsprozess](#2-über-den-arbeitsprozess)
-3. [Die Ergebnisse](#3-die-ergebnisse)`<br />`
+3. [Die Ergebnisse](#3-die-ergebnisse)<br />
    3.1 [Winterferienkurs in dem Polaris](#31-winterferienkurs-polaris)
 4. [Zusammenfassung](#4-zusammenfassung)
 
@@ -64,11 +64,7 @@ Der vierte Kurs fand im Zuge der Veranstaltung **„Stadt der Ideen"** an der [S
 - GothaCraft: Bahnhof
 - GothaCraft: Schwimmbad
 
-Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Nachmodelliert wurden:
-
-- JenaCraft Ostbad
-- JenaCraft Marktplatz
-- JenaCraft Neue Mitte
+Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit **20 Schüler\*innen** im Alter von **11 und 12 Jahren** durchgeführt. Der Workshop fand unter erschwerten Rahmenbedingungen statt: Bei etwa **35 Grad** und **verkürztem Unterricht** musste die Arbeitszeit deutlich konzentrierter genutzt werden. Gerade deshalb ist bemerkenswert, wie klar die Gruppen die zuvor gesammelten Kriterien in bauliche Entscheidungen übersetzten. Wegen des heißen Sommertages modellierten drei Gruppen das **Ostbad** nach und um; weitere Gruppen arbeiteten am **Marktplatz** und an der **Neuen Mitte**. Die gemeinsame Mindmap und die Ergebnisse dieses Durchlaufs liegen unter `images/angergymnasium/`.
 
 Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 
@@ -116,10 +112,10 @@ Ein weiterer Schwerpunkt lag auf dem Experimentieren mit ungewöhnlichen Materia
 
 Insgesamt spiegeln die Ergebnisse eine Auseinandersetzung mit der Frage wider, wie Denkmalpflege, Zugänglichkeit und neue Formen urbaner Raumnutzung miteinander in Einklang gebracht werden können.
 
-`<br /><br />`
+<br /><br />
 ---
 
-> [Zurück zur Übersicht](../)`<br />`
+> [Zurück zur Übersicht](../)<br />
 > [Zurück zur Webeeite](https://datenflix007.github.io)
 
 [^1]: Anmerkung: Redstone ist ein spezielles Mineral im Videospiel Minecraft, das ähnlich wie elektrische Kabel in der realen Welt funktioniert. Es kann Energie weiterleiten und damit Schalter, Türen, Lampen oder sogar komplexe Maschinen antreiben. Für jüngere Spieler:innen wirkt es wie eine Art „Magie-Staub“, für technisch Interessierte eher wie eine einfache Form von Elektrizität oder Logikschaltungen.
