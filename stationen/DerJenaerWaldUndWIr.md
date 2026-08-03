@@ -55,6 +55,14 @@ Ergänzend zur historischen Recherche begegnete die Gruppe einem heutigen Forstm
 
 Diese Begegnung eröffnete einen direkten Vergleich: Welche Gefahren bestanden früher? Wie haben Maschinen und Schutzkleidung die Arbeit verändert? Welche Verantwortung tragen Forstbeschäftigte heute für Sicherheit, Holznutzung und den Erhalt des Waldes?
 
+Fehlende Bildquellen und kritische Arbeit mit KI
+
+Gerade der Expertengruppe zu den Waldhirten fiel während der Recherche auf, dass sich zu einigen historischen Berufsgruppen und alltäglichen Phänomenen kaum geeignetes Bildmaterial in digitalen Datenbanken finden lässt. Dieser Befund wurde vom Referenten aufgegriffen und anschließend im Plenum reflektiert. Insbesondere für die Alltagsgeschichte des Mittelalters und der Frühen Neuzeit fehlen häufig direkte bildliche Quellen, da viele gewöhnliche Tätigkeiten und gesellschaftlich wenig angesehene Berufsgruppen von den Zeitgenossen kaum dokumentiert wurden.
+
+Unter Anleitung des Referenten erhielt die Gruppe deshalb die Möglichkeit, mit OpenAI ChatGPT 5.5 eine bildliche Rekonstruktion eines mittelalterlichen Waldhirten zu erstellen. Dabei wurde ausdrücklich thematisiert, dass das erzeugte Bild keine historische Quelle darstellt, sondern eine auf den recherchierten Informationen beruhende moderne Darstellung ist. Die Teilnehmenden prüften das erste Ergebnis kritisch und entdeckten mehrere Fehler: So waren zunächst mehrere Waldhirten zu sehen, obwohl diese gewöhnlich allein arbeiteten. Außerdem trug eine Figur eine Waffe und im Bild befand sich ein unpassendes modernes Hinweisschild. Durch weitere, von den Teilnehmenden formulierte Prompts wurden diese Fehler schrittweise korrigiert und zugleich Helligkeit und Druckqualität verbessert. Auf diese Weise wurde die KI-Nutzung nicht nur als gestalterisches Hilfsmittel eingesetzt, sondern zugleich zum Gegenstand einer kritischen Auseinandersetzung mit historischen Darstellungen, Plausibilität und den Grenzen künstlich erzeugter Bilder.
+
+
+
 ## Tag 2: Exkursion in den Jenaer Wald
 
 Am zweiten Tag verlagerte sich der Lernort in den Wald. Nach einer kurzen Wiederholung erkundete die Gruppe den Exkursionsweg und beobachtete Bäume, Waldstrukturen und sichtbare Veränderungen vor Ort. Der Wald wurde damit selbst zum Anschauungs- und Gesprächsraum.
