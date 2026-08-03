@@ -61,7 +61,7 @@ Gerade der Expertengruppe zu den Waldhirten fiel während der Recherche auf, das
 
 Unter Anleitung des Referenten erhielt die Gruppe deshalb die Möglichkeit, mit OpenAI ChatGPT 5.5 eine bildliche Rekonstruktion eines mittelalterlichen Waldhirten zu erstellen. Dabei wurde ausdrücklich thematisiert, dass das erzeugte Bild keine historische Quelle darstellt, sondern eine auf den recherchierten Informationen beruhende moderne Darstellung ist. Die Teilnehmenden prüften das erste Ergebnis kritisch und entdeckten mehrere Fehler: So waren zunächst mehrere Waldhirten zu sehen, obwohl diese gewöhnlich allein arbeiteten. Außerdem trug eine Figur eine Waffe und im Bild befand sich ein unpassendes modernes Hinweisschild. Durch weitere, von den Teilnehmenden formulierte Prompts wurden diese Fehler schrittweise korrigiert und zugleich Helligkeit und Druckqualität verbessert. Auf diese Weise wurde die KI-Nutzung nicht nur als gestalterisches Hilfsmittel eingesetzt, sondern zugleich zum Gegenstand einer kritischen Auseinandersetzung mit historischen Darstellungen, Plausibilität und den Grenzen künstlich erzeugter Bilder.
 
-
+![](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/2026_WirUndDerJenaerWald/Screenshot%202026-08-03%20111054.png)
 
 ## Tag 2: Exkursion in den Jenaer Wald
 
