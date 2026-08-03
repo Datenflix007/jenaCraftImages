@@ -29,6 +29,12 @@ Im Rahmen der Tätigkeit als wissenschaftliche Hilfskraft in dem DHLabor der Pro
 - [Markt](stationen/Markt.md)
 - [Neue Mitte](stationen/NeueMitte.md)
 
+
+---
+
+### JenaCraft: Der Jenaer Wald und wir
+- [zum Text](stationen/DerJenaerWaldUndWIr.md)
+
 <br /><br />
 ---
 > [Zurück zur Webseite](https://datenflix007.github.io)
