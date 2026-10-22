@@ -38,7 +38,7 @@ Rücksprache ist dies auch als AG über einen längeren Zeitraum anpassbar.
 
 ## 2. Über den Arbeitsprozess
 
-Durchgeführt wurde das Projekt insgesamt **fünfmal**.
+Durchgeführt wurde das Projekt insgesamt **sechsmal**.
 
 Der erste Kurs fand als Winterferien-Kurs vom **14.04. bis zum 17.04.2025** im [Jugendzentrum Polaris](https://polaris-jena.de/) statt. Dabei haben die SuS in fünf Kleingruppen die jeweils ausgesuchten Orte rekonstruiert und modifiziert. Im Zuge des ersten Kurses wurden folgende Orte umgesetzt:
 
@@ -69,6 +69,12 @@ Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit 
 - [Jena Ostbad](https://4dbrowser.urbanhistory4d.org/explore/poi/e73_poi_ZIh7GxcmJ)
 - [JenaCraft: Markt](https://4dbrowser.urbanhistory4d.org/explore/poi/e73_poi_nmcH7bBsV)
 - [JenaCraft Neue Mitte](https://4dbrowser.urbanhistory4d.org/explore/poi/e73_poi_9Cudl7mwV)
+
+Der sechste Durchlauf fand vom **20. bis 22.10.2026** als Herbstferienkurs in der **Ernst-Abbe-Bibliothek Jena** statt. **10 Teilnehmer*innen** arbeiteten in **drei Gruppen** und bauten folgende Orte nach:
+
+- [Goethe-Galerie](GoetheGalerie.md)
+- [Ad-Hoc-Arena](AdHocStadion.md)
+- [Fiktive Waffelbude als Treffpunkt für Jugendliche in Jena](Waffelbude.md)
 
 Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 
@@ -106,6 +112,62 @@ Ein besonders spannendes Detail sind die Bodenplatten im Eingangsbereich, die na
 Auch das Thema Begrünung zieht sich durch das gesamte Modell. Sowohl im Inneren, wo Pflanzen, Teiche und kleine Bäume das Einkaufszentrum beleben, als auch auf den Dächern entsteht ein harmonisches Zusammenspiel von Architektur und Natur. Die Galerie wird so zum grünen Lebensraum, in dem ökologische Verantwortung sichtbar wird. Ergänzt wird dieses Konzept durch den Gedanken der erneuerbaren Energien, der hier implizit in den Entwürfen mitgedacht wurde, eta durch Dachbegrünung, Lichtdurchflutung oder Energiegewinnung durch Bewegung.
 
 Die Qualität des Nachbaus ist dabei bemerkenswert: Die Teilnehmer haben nicht nur das äußere Erscheinungsbild präzise umgesetzt, sondern auch räumliche Tiefe, Proportionen und Innenstruktur eindrucksvoll nachempfunden. Gleichzeitig fließen zahlreiche farbige, verspielte und utopische Ideen ein, die das Projekt zu einer Mischung aus realistischer Architektur und kreativer Zukunftsvision machen.
+
+## 3.2 Ernst-Abbe-Bibliothek: Herbstferienkurs 20.–22.10.2026
+
+![Mindmap: Must haves, No Gos und Klimaschutzmaßnahmen](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab25/_mindmap.jpg)
+
+Am Anfang des jüngsten Herbstferienkurses sammelten die drei Gruppen in einer Mindmap Orte, die sie in Jena gern besuchen. Sie hielten auch fest, was ihnen an einem guten Treffpunkt wichtig ist.
+
+Zu den **Must haves** gehören Sicherheit, Barrierefreiheit, Ruhe, Natur und ein Garten. Die Gruppe nannte außerdem leckeres Essen, viele Solarpanele, Gründächer und umweltfreundlichen Strom. Als **No Gos** nannten die Teilnehmenden große Asphaltflächen, versiegelte Straßen, fehlende Bäume, Müll, Umweltverschmutzung, Abgase und unangenehme Gerüche. Bei den **Klimaschutzmaßnahmen** ging es um mehr Bäume und Pflanzen, Moos- und Gründächer, weniger Asphalt sowie den Schutz von Tieren und ihren Lebensräumen.
+
+### Gemeinsame Straßenbahnverbindung
+
+![Straßenbahnhaltestelle zwischen den Gruppenmodellen](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab25/stra%C3%9Fenbahn.png)
+
+Auf dem Bild sieht man die Straßenbahnstrecke mit Haltestelle zwischen den Gruppenmodellen. Gleise, Bahnsteige und Bäume liegen nah beieinander. So gehört die Bahn für die Gruppe zu einer Stadt, in der man gut ohne Auto unterwegs sein kann.
+
+![Straßenbahnverbindung mit Blick auf die Goethe-Galerie](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab25/stra%C3%9Fenbahn2.png)
+
+Die zweite Ansicht zeigt die Verbindung der drei Gruppenmodelle; rechts ist die Goethe-Galerie zu sehen. Die Straßenbahn verbindet die einzelnen Orte miteinander.
+
+### Goethe-Galerie: Einkaufsort, Freizeitort und grünes Gebäude
+
+![Außenansicht der Goethe-Galerie mit bepflanztem Glasdach](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab25/goetheGalerie/01.png)
+
+Man sieht den Schriftzug, die breiten Eingänge und den großen Glasaufbau der Goethe-Galerie. An der Fassade wachsen Pflanzen, und auf dem Dach stehen Bäume. Die Gruppe wollte aus dem Einkaufsort ein grünes Gebäude machen.
+
+![Barrierefreie Wege und Aufzüge in der Goethe-Galerie](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab25/goetheGalerie/02.png)
+
+Drinnen führen breite Wege durch die Galerie. Schilder zeigen den Weg zu den Fahrstühlen. So können alle Ebenen auch ohne Treppe erreicht werden. Sitzplätze und Pflanzen machen die lange Passage angenehmer.
+
+![Begrünte Glashalle der Goethe-Galerie](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab25/goetheGalerie/03.png)
+
+Unter dem hohen Glasdach wachsen Bäume und Pflanzen bis nach oben. Die Halle ist hell und offen. Die Gruppe hat die Galerie als Ort zum Bummeln, Treffen und Verweilen gestaltet – nicht nur zum Einkaufen.
+
+![Knicklichtladen in der Goethe-Galerie](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab25/goetheGalerie/04.png)
+
+Der Knicklichtladen ist bunt gestaltet und hat einen klaren Eingang. Damit gibt es in der Galerie auch ein Angebot, das junge Besucher*innen ansprechen soll.
+
+![Fahrstuhl mit klarer Beschilderung](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab25/goetheGalerie/05.png)
+
+Der Fahrstuhl ist gut beschildert und leicht zu finden. Das Bild zeigt ganz praktisch, was die Gruppe mit **Barrierefreiheit** meint.
+
+![Achterbahn als Freizeitangebot in der Goethe-Galerie](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab25/goetheGalerie/06.png)
+
+Mit der Achterbahn wird die Galerie auch zu einem Freizeitort. Die Gruppe wollte, dass junge Menschen hier nicht nur einkaufen, sondern auch zusammen Zeit verbringen und Spaß haben können.
+
+![Streckenführung der Achterbahn](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab25/goetheGalerie/07.png)
+
+Die Übersicht zeigt die Achterbahn mit ihren Kurven und mehreren Ebenen. Geländer und Plattformen machen die Strecke gut erkennbar. So wird aus einer spielerischen Idee ein geordneter Bereich in der Galerie.
+
+![Blick durch die zentrale Halle](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab25/goetheGalerie/08.png)
+
+In der zentralen Halle kommen viele Ideen zusammen: bunte Läden, die Achterbahn, breite Wege, Pflanzen und das Glasdach. Trotz allem bleibt genug Platz, um sich gut zurechtzufinden.
+
+![Vogelperspektive auf die neugestaltete Goethe-Galerie](https://github.com/Datenflix007/jenaCraftImages/raw/main/images/eab25/goetheGalerie/09.png)
+
+Von oben sieht man den ganzen Entwurf mit Glasdach, mehreren Ebenen und Freizeitangeboten. Auf dem Dach wachsen Bäume und Pflanzen. Für die Gruppe ist die Goethe-Galerie ein Ort zum Einkaufen, Treffen und Spaßhaben – mit viel Platz für Grün.
 
 ## 4. Zusammenfassung
 

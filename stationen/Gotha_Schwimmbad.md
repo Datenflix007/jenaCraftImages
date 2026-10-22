@@ -35,7 +35,7 @@ sowie Jugendzentren. Durchgeführt auf iPads mit Minecraft-Education-Lizenzen de
 
 ## 2. Über den Arbeitsprozess
 
-Durchgeführt wurde das Projekt insgesamt **fünfmal**.
+Durchgeführt wurde das Projekt insgesamt **sechsmal**.
 
 Der erste Kurs fand als Winterferien-Kurs vom **14.04. bis zum 17.04.2025** im [Jugendzentrum Polaris](https://polaris-jena.de/) statt. Dabei haben die SuS in fünf Kleingruppen die jeweils ausgesuchten Orte rekonstruiert und modifiziert. Im Zuge des ersten Kurses wurden folgende Orte umgesetzt:
 
@@ -66,6 +66,12 @@ Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit 
 - [Jena Ostbad](https://4dbrowser.urbanhistory4d.org/explore/poi/e73_poi_ZIh7GxcmJ)
 - [JenaCraft: Markt](https://4dbrowser.urbanhistory4d.org/explore/poi/e73_poi_nmcH7bBsV)
 - [JenaCraft Neue Mitte](https://4dbrowser.urbanhistory4d.org/explore/poi/e73_poi_9Cudl7mwV)
+
+Der sechste Durchlauf fand vom **20. bis 22.10.2026** als Herbstferienkurs in der **Ernst-Abbe-Bibliothek Jena** statt. **10 Teilnehmer*innen** arbeiteten in **drei Gruppen** und bauten folgende Orte nach:
+
+- [Goethe-Galerie](GoetheGalerie.md)
+- [Ad-Hoc-Arena](AdHocStadion.md)
+- [Fiktive Waffelbude als Treffpunkt für Jugendliche in Jena](Waffelbude.md)
 
 Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 
