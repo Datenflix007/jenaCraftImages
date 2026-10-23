@@ -69,9 +69,9 @@ Der fünfte Durchlauf wurde am **26.06.2026** am **Angergymnasium in Jena** mit 
 
 Der sechste Durchlauf fand vom **20. bis 22.10.2026** als Herbstferienkurs in der **Ernst-Abbe-Bibliothek Jena** statt. **10 Teilnehmer*innen** arbeiteten in **drei Gruppen** und bauten folgende Orte nach:
 
-- [Goethe-Galerie](GoetheGalerie.md)
-- [Ad-Hoc-Arena](AdHocStadion.md)
-- [Fiktive Waffelbude als Treffpunkt für Jugendliche in Jena](Waffelbude.md)
+- [JenaCraft: Goethe-Galerie](https://4dbrowser.urbanhistory4d.org/explore/poi/e73_poi_bkS5KYeao)
+- [JenaCraft: Ad-Hoc-Arena](https://4dbrowser.urbanhistory4d.org/explore/poi/e73_poi_2-Eb5GhTb)
+- [JenaCraft: Fiktive Waffelbude als Treffpunkt für Jugendliche in Jena](https://4dbrowser.urbanhistory4d.org/explore/poi/e73_poi_OVTcjDsyS)
 
 Gefällt Ihnen dieser Beitrag? Dann schauen Sie sich doch gerne die anderen Beiträge zum Thema an.
 
